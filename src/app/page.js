@@ -17,7 +17,7 @@ export default function Home() {
     'duchabucal',
     'estufas',
     'autoclaves',
-    'impresoras_fresadoras',
+    'impresoras_y_fresadoras',
     'insertos_de_ultrasonido',
     'lamparas',
     'lavadoras',

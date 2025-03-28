@@ -28,7 +28,7 @@ const categories = {
   duchabucal: duchabucalData,
   estufas: estufasData,
   autoclaves: autoclavesData,
-  impresoras_fresadoras: impresorasfresadorasData,
+  impresoras_y_fresadoras: impresorasfresadorasData,
   insertos_de_ultrasonido: insertosdeultrasonidoData,
   lamparas: lamparasData,
   lavadoras: lavadorasData,
