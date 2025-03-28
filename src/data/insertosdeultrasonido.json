@@ -1,0 +1,67 @@
+[
+    {   "id":1,
+        "title": "Insertos Cirugía Acteon Bone Surgery",
+        "description": "Realización de injertos óseos, permiten cortar, extirpar y remodelar las estructuras óseas sin ningún riesgo de lesiones a los tejidos blandos.\nCompuesto por seis insertos ultrasónicos (tres sierras y tres escalpelos) adaptados a los diferentes casos que surgen en el entorno intraoral.\nSe utiliza para tratamientos clínicos como la extracción ósea, la expansión de cresta, la preparación implantaria y el acceso al nervio alveolar inferior.\nEl spray estéril ayuda a enfriar los insertos (evitando así el daño al tejido por la exposición a altas temperaturas) y proporciona una excelente visibilidad del campo de operación.",
+        "image": "/imagenes/insertoDeUltrasonido/insertos-Acteon-bone-surgery-500-300x300.jpg"
+    },
+    {   "id":2,
+        "title": "Insertos Cirugía Acteon Kit Crest Splitting",
+        "description": "Los insertos Crest Splitting pueden expandir la cresta de manera uniforme, una por una, evitando los riesgos de fractura ósea.\nLos biomateriales de relleno óseo pueden introducirse delicadamente en el espacio creado.\nLa colocación del implante puede ser inmediata o puede retrasarse después de la curación.\nCompuesto por 6 insertos: CS1, CS2, CS3, CS4, CS5 y CS6.\nLos insertos de corte fino CS1 y CS2 están dedicados a osteotomías de hasta 8 mm de profundidad.\nEl inserto CS3 se utiliza para realizar las incisiones de descarga en las zonas mesial y distal, hasta 8 mm de profundidad.\nLos insertos cónicos CS4, CS5 y CS6 expanden progresivamente la cresta sin traumatismos.",
+        "image": "/imagenes/insertoDeUltrasonido/insertos-Acteon-Crest-Splitting-500-300x300.jpg"
+    },
+    {   "id":3,
+        "title": "Insertos Cirugía Acteon Kit Crown Extension",
+        "description": "Diseñados para ostectomía (extracción ósea) y osteoplastia (remodelación ósea).\nGracias a la selección de corte de los ultrasonidos en modo quirúrgico (modulación de frecuencia), los insertos Crow Extension limitan el riesgo de dañar los tejidos blandos (encía, ligamentos, fibras periodontales, nervios).\nEl efecto de cavitación permite una excelente visibilidad del campo de operación.\nCompuesto por 4 insertos: CE1, CE2, CE3 y BS6.\nInsertos CE1, CE2 y BS6 para osteoplastía.\nInserto CE3 para osteotomía.",
+        "image": "/imagenes/insertoDeUltrasonido/insertos-Acteon-Crown-Extension-500-300x300.jpg"
+    },
+    {   "id":4,
+        "title": "Insertos Cirugía Acteon Kit Essential",
+        "description": "Simplemente indispensable.\nDebido a la modulación de frecuencia ultrasónica, se logra un corte selectivo en modo quirúrgico.\nEstos insertos limitan el riesgo de lesión de los tejidos blandos, como la encía, los ligamentos, las fibras periodontales y los nervios.\nLa irrigación estéril ayuda a enfriar los insertos, evitando el daño al tejido por la exposición a altas temperaturas y brinda una excelente visibilidad del campo de operación.\nCompuesto por 6 insertos: BS1S Slim, BS4, SL1, SL2, SL3 y LC2.\nInserto BS1S Slim para osteotomía.\nInserto BS4 para osteoplastía.\nInsertos SL1, SL2 y SL3 para elevación de seno por vía lateral.\nInserto LC2 para extracción.",
+        "image": "/imagenes/insertoDeUltrasonido/insertos-Acteon-Essential-500-300x300.jpg"
+    },
+    {   "id":5,
+        "title": "Insertos Cirugía Acteon Kit Extraction",
+        "description": "Extracciones atraumáticas sin destrucción ósea.\nEste kit está destinado a procedimientos clínicos tales como extracción de muelas del juicio, raíces fracturadas, dientes incluidos y sección de la raíz.\nLos insertos ultrasónicos están adaptados al contexto anatómico (visibilidad reducida y espacio) de las áreas anterior y posterior.\nIntroducidos entre el cemento y el ligamento periodontal del diente, los insertos ampliarán el espacio del ligamento.\nEl diente se puede extraer rápidamente y con una luxación menos traumática.\nEl borde del hueso alveolar puede mantenerse intacto evitando una alveolectomía.\nCompuesto por 6 insertos: LC1, LC1 90°, LC2, LC2L, LC2R y NINJA.\nInsertos LC1 y LC2 para sindesmotomía zona anterior.\nInsertos LC1 90°, LC2L y LC2R para sindesmotomía zona posterior.\nInserto NINJA para corte de raíces.",
+        "image": "/imagenes/insertoDeUltrasonido/insertos-Acteon-Extraction-500-300x300.jpg"
+    },
+    {   "id":6,
+        "title": "Insertos Cirugía Acteon Kit Intralift",
+        "description": "Técnica rápida, segura y mínimamente invasiva.\nEspecialmente desarrollado para la elevación de seno por vía crestal, el Kit Intralift permite realizar cirugía no invasiva con total seguridad.\nEl efecto de cavitación permite una excelente visibilidad del campo de operación.\nCompuesto por 5 insertos: TKW1, TKW2, TKW3, TKW4 y TKW5.\nLos insertos diamantados TKW1, TKW2, TKW3 y TKW4 están diseñados para perforar y ensanchar gradualmente el conducto de acceso a la membrana sinusal.\nInserto TKW5 para elevación de la membrana por medio de microcavitación.",
+        "image": "/imagenes/insertoDeUltrasonido/insertos-Acteon-Intralift-500-300x300.jpg"
+    },
+    {   "id":7,
+        "title": "Insertos Cirugía Acteon Kit Piezocision",
+        "description": "Incisiones mínimas / procedimientos mínimamente invasivos.\nCirugía ortodóncica rápida y segura seguida de densificación ósea.\nEl kit Piezocision está dedicado a la cirugía de ortodoncia acelerada para adultos.\nEl objetivo principal es reducir el tiempo de tratamiento de ortodoncia y acelerar el movimiento dental.\nEstos insertos garantizan un corte fino, limpio y sin esfuerzo.\nCompuesto por 4 insertos: PZ1, PZ2L, PZ2R y PZ3.\nEstos insertos finos equipados con dientes están destinados a realizar corticotomías alveolares sin colgajo.",
+        "image": "/imagenes/insertoDeUltrasonido/insertos-Acteon-Piezocision-500-300x300.jpg"
+    },
+    {   "id":8,
+        "title": "Insertos Cirugía Acteon Kit Sinus Lift",
+        "description": "Visibilidad inigualable.\nEl kit Sinus Lift ofrece al usuario una respuesta directa y muy segura a la elevación del seno por vía lateral.\nGracias a la modulación de frecuencia ultrasónica, el riesgo de daño a la membrana es muy limitado.\nEl efecto de cavitación permite una excelente visibilidad del campo de operación.\nEstos insertos garantizan un corte fino, limpio y sin esfuerzo.\nCompuesto por 5 insertos: SL1, SL2, SL3, SL4 y SL5.\nInsertos SL1 y SL2 para recorte de tejido óseo.\nInsertos SL3, SL4 y SL5 para elevación de seno.",
+        "image": "/imagenes/insertoDeUltrasonido/insertos-Acteon-Sinus-Lift-500-300x300.jpg"
+    },
+    {   "id":9,
+        "title": "Insertos convencionales Acteon Endodoncia",
+        "description": "Amplia gama de insertos de endodoncia para ofrecer el inserto idóneo para cada caso.\nIncluye insertos para remover pernos e instrumentos rotos, insertos de irrigación e insertos de cirugía apical, etc.\nLimitarán las necesidades de otro tipo de equipamiento al tiempo que ofrecen un trabajo más preciso que con una fresa.",
+        "image": "/imagenes/insertoDeUltrasonido/insertos-convencionales-acteon-endodoncia-500-300x300.jpg"
+    },
+    {   "id":10,
+        "title": "Insertos convencionales Acteon Periodoncia",
+        "description": "Los insertos de periodoncia NEWTRON permitirán el tratamiento y el mantenimiento de las bolsas periodontales debido a su extrema finura.\nEsta finura, junto con la vibración precisa proporcionada por el inserto, permite tratamientos atraumáticos que reducen la necesidad de anestésicos desde el primer día de tratamiento.\nLa forma del inserto es muy similar a una cureta universal y la técnica de uso es similar.",
+        "image": "/imagenes/insertoDeUltrasonido/insertos-convencionales-acteon-periodoncia-500-300x300.jpg"
+    },
+    {   "id":11,
+        "title": "Insertos convencionales Acteon Profilaxis",
+        "description": "Estos insertos de la gama de profilaxis facilitan los tratamientos supragingivales exitosos.",
+        "image": "/imagenes/insertoDeUltrasonido/insertos-convencionales-acteon-profilaxis-500-300x300.jpg"
+    },
+    {   "id":12,
+        "title": "Insertos convencionales Acteon Prótesis y estética",
+        "description": "Los insertos Perfect Margin de Acteon ofrecen una preparación de la corona indolora para los pacientes.\nLa superficie de los dientes tratados con estos insertos será más suave que la que se obtiene solo con una fresa, ofreciendo una impresión más precisa, un banding más resistente y una mayor durabilidad de la prótesis.",
+        "image": "/imagenes/insertoDeUltrasonido/insertos-convencionales-acteon-protesis-estetica-500-300x300.jpg"
+    },
+    {   "id":13,
+        "title": "Insertos convencionales Acteon Tratamiento de implantes",
+        "description": "Los insertos de mantenimiento de implantes han sido diseñados para ser compatibles con las coronas protésicas.\nGama de insertos de titanio para limpiar el implante, insertos de carbono composite para el mantenimiento de la corona.",
+        "image": "/imagenes/insertoDeUltrasonido/insertos-convencionales-acteon-trat-implantes-500-300x300.jpg"
+    }
+]

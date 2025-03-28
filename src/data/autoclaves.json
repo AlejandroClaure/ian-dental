@@ -1,0 +1,47 @@
+[
+    {   "id":1,
+        "title": "Autoclave Egeo Laser 12",
+        "description": "Capacidad de 12 litros, con secado automático provista con bomba de vacío. Cuenta con dos programas de esterilización.\n Interior acero inoxidable AISI 304 y exterior en chapa pintada, con pintura Epoxi.\nControl electrónico con display LCD y termocupla Pt100. Provisto con una variedad de dispositivos de protección.",
+        "image": "/imagenes/esterilizacion/autoclaves/Autoclave-EGEO-Laser-12-500x500-1-300x300.png"
+    },
+    {   "id":2,
+        "title": "Autoclave Egeo Laser 21",
+        "description": "Capacidad de 21 litros, con llenado y secado automático provista con bomba de vacío. Cuenta con dos programas de esterilización. Interior acero inoxidable AISI 304 y exterior en chapa pintada, con pintura Epoxi-. Control electrónico con display LCD y termocupla Pt100.\n Provisto con una variedad de dispositivos de protección.",
+        "image": "/imagenes/esterilizacion/autoclaves/Autoclave-Egeo-laser21-500x500-1-300x300.png"
+    },
+    {   "id":3,
+        "title": "Autoclave Egeo SB 12",
+        "description": "Capacidad de 12 litros, con secado asistido por el usuario. Cuenta con dos programas de esterilización. Interior Acero Inoxidable AISI 304 y exterior en chapa pintada, con pintura Epoxi. Control electrónico y termocupla Pt100 de gran exactitud que regulan y verifican que la temperatura no exceda los parámetros de funcionamiento normales.\nProvisto con una variedad de dispositivos de seguridad: válvula de seguridad, burlete de silicona auto-expulsable, puerta construida en aluminio fundido con nervaduras de refuerzo, fusible eléctrico que protege el equipo por cortocircuitos.",
+        "image": "/imagenes/esterilizacion/autoclaves/Autoclave-Egeo-SB12-500x500-1-300x300.png"
+    },
+    {   "id":4,
+        "title": "Autoclave Ficoinox H12 LBV",
+        "description": "Capacidad 12 litros. Termómetro digital: 2°C a 150°C. Manómetro: 0 a 4 kg/cm2.\nEvacuación automática de la presión y del agua alf inal del ciclo de esterilización.\nFase de secado independiente. Carga y descarga frontal.\nAccesorios: 2 bandejas perforadas de acero inoxidable, 1 manguera, 1 vaso plástico de 1⁄4 Litro.\nMedidas de la cámara: diámetro 220 mm – profundidad 300 mm.\nPeso neto 20 kg.",
+        "image": "/imagenes/esterilizacion/autoclaves/ficoinox-autoClave-H12_LBV-300x300.jpg"
+    },
+    {   "id":5,
+        "title": "Autoclave Ficoinox H16 LBV",
+        "description": "Capacidad: 16 litros.\nTermómetro digital: rango de medición de 2°C a 150°C.\nManómetro: rango de medición 0 a 4 kg/cm2.\nEvacuación automática de la presión y del agua al final del ciclo de esterilización y ante señales de alarma.\nFase de secado independiente. Peso neto 20 kg.\nMedidas de la cámara: diámetro 220 mm – profundidad 400 mm.\nAccesorios: 2 bandejas perforadas de acero inoxidable, 1 manguera, 1 vaso plástico de 1⁄4 Litro.\nCarga y descarga frontal.",
+        "image": "/imagenes/esterilizacion/autoclaves/ficoinox_autoClave-H16_LBV-300x300.jpg"
+    },
+    {   "id":6,
+        "title": "Autoclave Ficoinox SL900",
+        "description": "Termómetro digital: rango de medición de 2°C a 150°C.\nManómetro: rango de medición 0 a 4 kg/cm.\nTiene 2 presentaciones: uno con capacidad 9,5 litros (SL9000 S) con balde chico de acero inoxidable con manija o bastidor con 3 bandejas perforadas (20x10x2 con tapa deslizable) de acero inoxidable, y el otro con capacidad 13,5 litros (SL9000 L) con balde grande de acero inoxidable con manija.\nAccesorios incluidos: cable intercambiable con fichas de 10 Amp. con conexión a tierra,  una manguera de drenaje con conector de bronce cromado, una base cubre resistencia y 3 bandejas con bastidor o balde según presentación.",
+        "image": "/imagenes/esterilizacion/autoclaves/ficoinox_autoClave-SL9000-300x300.jpg"
+    },
+    {   "id":7,
+        "title": "Autoclave Woson Dolphinn",
+        "description": "Esterilizador a vapor.\nAmplia cavidad. Ultra silencioso.\nPanel de lectura frontal, posee manómetro de temperatura y presión, tecla de selección de temperatura, selector de válvula abierta-cerrada, llave general y piloto indicador de funcionamiento.\nDe categoría Clase N, gravitacional, fue desarrollada para esterilizar materiales sólidos envasados, por vapor saturado de agua a presión y secado con puerta semiabierta.\nCámara de acero 304 en pieza única.\nPuerta de la cámara de acero con excelente acabado y gran resistencia a la presión.",
+        "image": "/imagenes/esterilizacion/autoclaves/autoclave-woson-dolphin-16-18-300x300.jpg"
+    },
+    {   "id":8,
+        "title": "Autoclave Woson Tanzo Classic",
+        "description": "Autoclave Class B Pre-Vacío completa.\nPanel frontal de simple lectura y fácil operación a través de teclas press-botton.\nLED indicadores de pureza y nivel de agua destilada y nivel del depósito de agua utilizado, accionados por sensores.\nSelector de funciones personalizadas y preprogramadas.\nCámara de acero 304\nCámara de destilado con sensor de calidad del agua y de niveles mínimo y máximo, con drenaje.\nCámara de agua utilizada con sensor de nivel máximo, con drenaje.\nTemporizadores de pre-vacío y secado por vacío.",
+        "image": "/imagenes/esterilizacion/autoclaves/autoclave-woson-tanzo-classic.jpg"
+    },
+    {   "id":9,
+        "title": "Autoclave Woson Tanzo Touch",
+        "description": "Producto moderno y versátil. Fácil de operar y rica en inteligencia interactiva.\nPosee panel LCD Interactivo Resistivo Touchscreen de alta iluminación, que identifica digitalmente los iconos de programas y pruebas, el diagrama ejecutado y el panel de mantenimiento inteligente.\nSe destina a esterilizar cualquier material autoclavable, sea sólido, campo, goma, articulado, poroso, algodón y tejido.\nOpera con 3 cámaras, una para esterilización confeccionada en pieza única de acero 304, otra para líquido destilado dotada de sensores de nivel y calidad del destilado y la tercera cámara para agua utilizada dotada de sensor de nivel.\nSistema de calentamiento eficiente, reduce el tiempo de esterilización en un 20%.\nImpresora integrada, lector y grabador de tarjetas SD.\nFunción de autodiagnóstico, da información de error y la solución.\nOptimización de ahorro de energía del sistema.",
+        "image": "/imagenes/esterilizacion/autoclaves/autoclave-woson-tanzo-touch-300x300.jpg"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {   "id":1,
+        "title": "Turbina Coxo Led Push Button",
+        "description": "Pulsador de alta velocidad de la pieza de mano, bombilla LED.\nPresión del aire: 0.25-0.27Mpa (4H) / 0.20- 0.22Mpa (2H)\nVelocidad de rotación: 300.000rpm\nTipo de mandril: Pulsador\nFresa aplicable: 1.6mmx21mm-23mm\nRuido: 68dB\n2 agujeros.\nMod. CX-207",
+        "image": "/imagenes/rotatorios/Turbinas/Coxo-turbina-PB_500-300x300.jpg"
+    }, 
+    {   "id":2,
+        "title": "Turbina Lotus Being 302-PBFO LED",
+        "description": "Turbina a Boton.\nTriple spray.\nManguera con fibra óptica.\nCircuito fuente de luz.\nLa turbina sola no genera luz y no acopla en las mangueras con acople borden de 2 orificios ya que tiene 4+2 orificios.",
+        "image": "/imagenes/rotatorios/Turbinas/Turbina-Being-Lotus-302-PBFO-LED_500-300x300.jpg"
+    }, 
+    {   "id":3,
+        "title": "Turbina Lotus Being 302F-B2 Class B",
+        "description": "Friction grip con sacafresas.\nCalidad: clase B.\nRulemanes chinos, apenas mas ruidosa que la clase A.\nSistema de agarre de fresa Friction grip con sacafresas.\nTriple spray para mejor refrigeración.\nRulemanes cerámicos de larga vida útil.\nPresión de Uso: 0.28-0.4Mpa.\nPresión de Agua: 198Kpa (2kg).\nVelocidad de rotación: 380.000-450.000 RPM (CLASE B max 420.000).",
+        "image": "/imagenes/rotatorios/Turbinas/Turbina-Being-Lotus-302F-B2-ClassB_500-300x300.png"
+    }, 
+    {   "id":4,
+        "title": "Turbina Lotus Being 302P-B2 Class A",
+        "description": "Retraction Control.\nSuper Torque.\nTriple Spray y ruleman cerámico.\nCalidad: clase A.\nPush button sistema de agarre de fresa a botón.\nTriple spray para mejor refrigeración.\nRulemanes cerámicos de larga vida útil.\nPresión de Uso: 0.28-0.4Mpa.\nPresión de Agua: 198Kpa (2kg).\nVelocidad de rotación: 380.000-450.000 RPM.",
+        "image": "/imagenes/rotatorios/Turbinas/Turbina-Being-Lotus-302P-B2-ClassA_500-300x300.jpg"
+    }, 
+    {   "id":5,
+        "title": "Turbina Lotus Being 302P-B2 Class B",
+        "description": "Super Torque.\nPush Button.\nTriple Spray y ruleman cerámico.\nCalidad: clase B.\nPush button sistema de agarre de fresa a boton.\nTriple spray para mejor refrigeración.\nRulemanes cerámicos de larga vida útil.\nPresión de Uso: 0.28-0.4Mpa.\nPresión de Agua: 198Kpa (2kg).\nVelocidad de rotación: 380.000-450.000 RPM.",
+        "image": "/imagenes/rotatorios/Turbinas/Turbina-Being-Lotus-302P-B2-ClassB_500-300x300.jpg"
+    }, 
+    {   "id":6,
+        "title": "Turbina Lotus Being 401-PB2 Class A",
+        "description": "Retraction Control.\nDiamond body.\nPush button y spray simple de dos salidas.\nCalidad: clase A.\nTamaño de cabeza standard.\nRulemanes cerámicos de mayor vida util.\nConexión borden 2 orificios.\nPresión de Aire: 180-250Kpa (1.8-2.5kgf cm2).\nPresión de Agua: 198Kpa (2kg).\nVelocidad de rotación: 380.000-450.000 RPM.",
+        "image": "/imagenes/rotatorios/Turbinas/Turbina-Being-Lotus-401-PB2-ClassA_500-300x300.jpg"
+    }, 
+    {   "id":7,
+        "title": "Turbina Lotus Being 401-PB2 Class B",
+        "description": "Mango circular.\nPush button y spray simple de una salida.\nCalidad: clase B.\nRulemanes cerámicos, apenas más ruidosa que la Clase A.\nTamaño de cabeza standard similar a NSK pana-air.\nConexión borden 2 orificios.\nPresión de Aire: 180-250Kpa (1.8-2.5kgf cm2).\nPresión de Agua: 198Kpa (2kg).\nVelocidad de rotación: 380.000-450.000 RPM.",
+        "image": "/imagenes/rotatorios/Turbinas/Turbina-Being-Lotus-401-PB2-ClassB_500-300x300.jpg"
+    }, 
+    {
+         "id":8,  "title": "Turbina Lotus Being 401-PB2 Class C",
+        "description": "Push button y spray simple de dos salidas.\nMango de aluminio negro.\nCalidad: clase C.\nRulemanes metálicos chinos, mas ruidosa que la Clase A, menor vida útil.\nTamaño de cabeza standard similar a NSK pana-air.\nRulemanes convencionales.\nConexión borden 2 orificios.\nPresión de Aire: 180-250Kpa (1.8-2.5kgf cm2).\nPresión de Agua: 198Kpa (2kg).\nVelocidad de rotación: 380.000-450.000 RPM.",
+        "image": "/imagenes/rotatorios/Turbinas/Turbina-Being-Lotus-401-PB2-ClassC_500-300x300.jpg"
+    }, 
+    {   "id":9,
+        "title": "Turbina Lotus Being 401-PB2 Led",
+        "description": "Zero Retraction.\nIncluye sistema de iluminación LED con generador incorporado en el cuerpo de la pieza de mano.\nTamaño de cabeza standard similar a NSK pana-air.\nRulemanes cerámicos de mayor vida util.\nConexión borden 2 orificios.\nCartucho compatible con NSK PANA-AIR 2000.\nPresión de Aire: 180-250Kpa (1.8-2.5kgf cm2).\nPresión de Agua: 198Kpa (2kg).\nVelocidad de rotación: 380.000-450.000 RPM.",
+        "image": "/imagenes/rotatorios/Turbinas/Turbina-Being-Lotus-401-PB2-LED-500-300x300.jpg"
+    }, 
+    {   "id":10,
+        "title": "Turbina Gacela Evo Delta",
+        "description": "Cabezal: 11 M.M.\nDoble Spray agua y aire.\nPush Button de acero inoxidable Suizo.\nExcelente torque.\nVelocidad Max: 380.000 RPM.\nMuy silenciosa debajo de los 67 DB.\nAlta precision en tallado.\nTratamiento superficial de cromo duro antireflex.\nSuave al tacto y de fácil limpieza.",
+        "image": "/imagenes/rotatorios/Turbinas/Turbina-Gacela-Evo-Delta-PB_400x400-300x300.png"
+    }, 
+    {   "id":11,
+        "title": "Turbina Gacela Evo Quartz",
+        "description": "SPRAY Agua-Aire de 4 Puertos que optimiza la refrigeración del campo operativo.\nCabezal: 12,2 mm\nChuck Push Button de Acero Inoxidable.\nExcelente Torque\nVelocidad Maxima: 330,000 rpm\nMuy Silenciosa – Debajo de los 67 dB.\nAlta Precisión en el tallado.",
+        "image": "/imagenes/rotatorios/Turbinas/Turbina-Gacela-Evo-Quartz-400x400-1-300x300.png"
+    }, 
+    {   "id":12,
+        "title": "Turbina Gacela Evo Torque RG",
+        "description": "Spray agua y aire.\nChuck acero inoxidable F.G.\nExcelente torque.\n330.000 RPM.\nSilenciosa.\nAlta precisión en el tallado.",
+        "image": "/imagenes/rotatorios/Turbinas/turbina-Gacela-evo-torque-rg_opt-300x300.png"
+    }, 
+    {   "id":13,
+        "title": "Turbina KMD Belair",
+        "description": "Spray x1 button.\nRodamientos de excelente calidad.\nBajo nivel de sonido.\nExcelente torque.",
+        "image": "/imagenes/rotatorios/Turbinas/turbina-KMD-belair-1-PB-500x500-1-300x300.png"
+    }, 
+    {   "id":14,
+        "title": "Turbina KMD Colibrí NS",
+        "description": "Cabezal pequeño.\nEspecial para zonas de difícil acceso o uso en niños.\nExcelente velocidad.\nBajo nivel de sonido.\nExcelente torque.\n350.000 r.p.m.",
+        "image": "/imagenes/rotatorios/Turbinas/turbina-KMD-colibri-NS_500x500-300x300.png"
+    }, 
+    {   "id":15,
+        "title": "Turbina KMD Draco",
+        "description": "Spray X1.\nTorque óptimo.\nReducción de estrés sonoro.\n330.000 RPM.",
+        "image": "/imagenes/rotatorios/Turbinas/turbina-KMD-draco-500x500-1-300x300.png"
+    }, 
+    {   "id":16,
+        "title": "Turbina KMD Maxtorque",
+        "description": "Spray x1.\nAngulación del cabezal facilita visibilidad operatoria.\nBajo nivel de sonido.\nExcelente torque.",
+        "image": "/imagenes/rotatorios/Turbinas/turbina-KMD-Maxtorque-500x500-1-300x300.png"
+    }, 
+    {   "id":17,
+        "title": "Turbina KMD S2000",
+        "description": "Spray X4.\nAngulación del cabezal facilita visibilidad operatoria.\nRodamientos de excelente calidad.\nBajo nivel de sonido.",
+        "image": "/imagenes/rotatorios/Turbinas/turbina-KMD-S2000-500x500-1-300x300.png"
+    }, 
+    {   "id":18,
+        "title": "Turbina KMD S2000 Ultra Torque",
+        "description": "Spray x4.\nPush button.\nRodamientos cerámicos de excelente calidad.\nMayor velocidad.\nBajo nivel de sonido.\nExcelente torque.\n390.000 r.p.m.",
+        "image": "/imagenes/rotatorios/Turbinas/turbina-KMD-s2000-ultra-torque_500x500-300x300.png"
+    }, 
+    {   "id":19,
+        "title": "Turbina KMD Sirion PB",
+        "description": "Luz led.\nSpray x3 y x1.\nPush button.\nFácil conexión por su Acople Borden 2.\nRodamientos cerámicos de excelente calidad.\nMayor velocidad.\nBajo nivel de sonido.\nExcelente torque.\n390.000 r.p.m.",
+        "image": "/imagenes/rotatorios/Turbinas/turbina-KMD-sirion-PB-500x500-1-300x300.png"
+    }, 
+    {   "id":20,
+        "title": "Turbina KMD Standard",
+        "description": "Spray X1.\nResistente a la inestabilidad en el suministro de aire.\nBajo nivel de sonido.\n",
+        "image": "/imagenes/rotatorios/Turbinas/turbina-KMD-standard-500x500-1-300x300.png"
+    }
+]

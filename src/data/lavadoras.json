@@ -1,0 +1,22 @@
+[
+    {   "id":1,
+        "title": "Lavadora ultrasónica Codyson 2.5 L",
+        "description": "Tanque de acero inoxidable de 2,5L.\nFrecuencia de trabajo 42,000 Hz.\nTotalmente digital.\n5 programas de tiempo y calentamiento.\nDisplay indicador.\nPotencia: 170 Watts.",
+        "image": "/imagenes/lavadoras/lavadora-codyson-2-5-300x300.png"
+    },
+    {   "id":2,
+        "title": "Lavadora ultrasónica Woson 2.5 L",
+        "description": "Diseño audaz. Robustas. Carenado de ABS inyectado de alto impacto.\nSellado de los bordes de la cuba contra penetración de agua o sustancias químicas y teclas con sensor capacitivo.\nUna opción de temperatura. Volumen de cuba: 2,5 litros.\nTemporizador ajustable por 1 -30 minutos. Transductor ultrasónico de alta eficiencia de 60W.\nCalentador cerámico de 100W. Sostiene objetos de hasta 26 cm de ancho.\nVálvula de drenaje en la parte inferior para facilitar el acceso. Función de desgasificación.",
+        "image": "/imagenes/lavadoras/lavadora-woson-collin20-300x300.png"
+    },
+    {   "id":3,
+        "title": "Lavadora ultrasónica Woson 3.0 L",
+        "description": "Cuba de acero inoxidable de 3.0 litros con función de desgasificación. Acepta instrumentos de hasta 266 mm de longitud.\n Carenado de ABS de alto impacto muy resistente, con asas y drenaje independiente y cesta de PVC para facilitar el manejo de los instrumentos.\n Apagado automático cuando no hay agua. Panel LED con sensor capacitivo, circuito integrado y sellado contra agua y productos químicos y disipador de calor. Calentadores de cerámica de 100W y 2 transductores de 45mm y 80W. Ofrece 5 opciones de calefacción.",
+        "image": "/imagenes/lavadoras/lavadora-woson-collin30-300x300.png"
+    } ,
+    {   "id":4,
+        "title": "Lavadora ultrasónica Woson 6.0 L",
+        "description": "Panel de control con sensor capacitivo resistente al agua y sustancias químicas fuertes.\nCircuito integrado y tarjeta electrónica a prueba de humedad.\nPared con 4 mm de espesor y ranuras para un mejor rendimiento de impacto e impermeable.\nProtección térmica a 65 ° C contra sobrecalentamiento.\n5 temperaturas preprogramadas. Interrupción automática del calentamiento por falta de agua.\nTemporizador ajustable por 1 -30 minutos. Transductor ultrasónico de alta eficiencia de 60W.\nCalentador cerámico de 100W. Sostiene objetos de hasta 26 cm de ancho.\nVálvula de drenaje en la parte inferior para facilitar el acceso. Función de desgasificación.",
+        "image": "/imagenes/lavadoras/lavadora-woson-collin60-300x300.png"
+    }
+]

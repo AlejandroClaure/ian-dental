@@ -1,0 +1,154 @@
+[
+    {   
+        "id":1,
+        "title": "Sillón Nardi & Herrero - AustraL-R",
+        "description": "Bandeja acero inoxidable.\nCuatro salidas neumáticas, tres con agua para refrigeración con Acoples Borden.\nJeringa Triple.\nLámpara Polimerizadora Lucerna LED.",
+        "image": "/imagenes/sillones/Sillon-Nardi-Herrero-Austral-R-300x300.jpg"
+    },
+    {   
+        "id":2,
+        "title": "Sillón Nardi & Herrero R&E Línea C",
+        "description": "Unidad Insular.\nBandeja acero inoxidable.\nCuatro salidas neumáticas, tres con agua para refrigeración con Acoples Borden.\nJeringa Triple.\nLámpara\nPolimerizadora Lucerna LED.",
+        "image": "/imagenes/sillones/Sillon-Nardi-Herrero-RyE-Linea-C-300x300.jpg"
+    },
+    {   
+        "id":3,
+        "title": "sillon-Fengdan-QL2028-Colgante_500",
+        "description": "Unidad Super Insular.\nBandeja acero inoxidable.\nCuatro salidas neumáticas, tres con agua para refrigeración con Acoples Borden.\nJeringa Triple.\nLámpara Polimerizadora Lucerna LED.",
+        "image": "/imagenes/sillones/Sillon-Nardi-Herrero-RyE_Super_R-300x300.jpg"
+    },
+    {   
+        "id":4,
+        "title": "Sillón Nardi & Herrero Continental A",
+        "description": "Bandeja acero inoxidable.\nCuatro Salidas Neumáticas, tres con agua para refrigeración con Acoples Borden.\nJeringa Triple.\nLámpara Polimerizadora Lucerna LED.",
+        "image": "/imagenes/sillones/Sillon-Nardi-Herrero-Continental-A-300x300.png"
+    },
+    {   
+        "id":5,
+        "title": "Sillón Olsen Infinity Premium",
+        "description": "3 posiciones de trabajo programadas.\nPosición de enjuague.\nRetorno a cero automático.\nCabecera Multiarticulada.\nApoyabrazos derecho abatible.\nSistema Cross Flex (mangueras tipo colibrí).\nBrazo Flex con regulación neumática de altura y sistema capacitivo.\nJeringa triple.\n1 terminal para alta rotación Midwest o Borden.\n1 terminal para baja rotación Midwest o Borden con refrigeración por spray.\nUltrasonido Piezoeléctrico con luz y sistema Endo.\nIluminación por LED con intensidad progresiva de 6.000 a 25.000 Lux.\nEscupidera translucida de poliéster del mismo color del tapizado.",
+        "image": "/imagenes/sillones/sillon-olsen-infinity-premium-300x300.png"
+    },
+    {   
+        "id":6,
+        "title": "Sillón Olsen Siena Quality",
+        "description": "3 posiciones de trabajo en memoria.\nRetorno a cero automático. Cabecera multiarticulada.\nBrazo Flex con regulación neumática de altura y freno con sistema capacitivo.\nJeringa triple.\n2 terminales para alta rotación Midwest o Borden.\n1 terminal para baja rotación Midwest o Borden con refrigeración por spray.\nPedal progresivo para accionamiento de las piezas de mano.\nBandeja de instrumentos de acero inoxidable.\n2 eyectores Venturi con Ø6,5mm y Ø9,5mm para cánula desechable.\nEscupidera translúcida removible.\nIluminación por LED con intensidad progresiva de 6.000 a 25.000 Lux.",
+        "image": "/imagenes/sillones/sillon-olsen-siena-quality-300x300.jpg"
+    },
+    {   
+        "id":7,
+        "title": "Sillón Olsen Logic Plus",
+        "description": "3 posiciones de trabajo en memoria.\nRetorno a cero automático.\nCabecera Multiarticulada.\nBrazo derecho abatible.\nAcoplado o Cart.\nBrazo Flex con regulación neumática de altura y freno con sistema capacitivo.\nJeringa triple.\n2 terminales para alta rotación Midwest o Borden.\n1 terminal para baja rotación Midwest o Borden con refrigeración por spray.\nIluminación por LED con intensidad progresiva de 7.000 a 25.000 Lux.\n2 eyectores se saliva Venturi para cánula desechable de Ø6,5mm y Ø9,5mm.\nEscupidera Translúcida desmontable.",
+        "image": "/imagenes/sillones/sillon-olsen-logic-plus-300x300.png"
+    },
+    {   
+        "id":8,
+        "title": "Sillón Olsen Sprint",
+        "description": "Movimientos eléctricos de ajuste de asiento y respaldo comandados por pedal joystick incorporado a la base del sillón.\n3 posiciones de trabajo en memoria. Retorno a cero automático.\n2 salidas para piezas de mano más Jeringa triple. Brazo Flex con regulación mecánica de altura.\nBandeja de instrumentos con protección de tela de PVC.\nLuminosidad con intensidad de 20.000 Lux.\nEscupidera de Porcelana. Eyector de saliva tipo venturi.",
+        "image": "/imagenes/sillones/sillon-olsen-sprint-300x300.png"
+    },
+    {   
+        "id":9,
+        "title": "Sillón Roson Colibri S6",
+        "description": "Bloqueo de instrumentos. 2 Apoyabrazos (derecho rebatible). Panel de control en mesa odontólogo y mesa asistente.\nRetorno automático a la última posición presionando un botón. Cabezal estable: movimientos sincronizados, 3 posiciones programables. Llave general de corte.\nPanel de control táctil, jeringa de 3 funciones, suctores de alta y baja, filtros de succión externos. Puesto disponible para agregar lámpara de polimerización. Preparado para aspiración por vacío opcional.\nSalivadera cerámica extraíble y giratoria. Llenado vaso y lava bacha programable.\nAgua tibia constante. Botellón para agua tratada.\nPanel de control táctil, 5ta posición libre. Protector autoclavable. Pedal de 4 posiciones.\nFoco de LED. Rotación multi angulo con manijas autoclavables. Sensor de encendido y apagado (No Touch).\nIntensidad de Luz > 35.000 lux.",
+        "image": "/imagenes/sillones/sillon-Roson-S6-Colibri_500-300x300.png"
+    },
+    {   
+        "id":10,
+        "title": "Sillón Roson Colibri N1",
+        "description": "Sillón electromecánico. Elevación de silla por sistema pantográfico.\n\nControles para vuelta a cero, programas de trabajo, posición salivado, retorno última posición. Cabezal multiarticulado y regulable en altura. Pedal multifunción. Dos apoya brazos, derecho giratorio y extraíble.\nUnidad dental con brazo de aluminio, de doble articulación con freno neumático.\nConsola de amplia superficie de trabajo, con tareas programadas, sistema de teclas con membranas. Negatoscopio.\nSalivadera fijada lateralmente al sillón con bacha cerámica.\nBrazo de asistente con movimientos laterales, provee el sistema de aspiración alta y baja, y filtro recolector de sólidos. Jeringa de asistenta de 3 funciones.\nAgua para los instrumentos dinámicos puede seleccionarse entre agua de red y aséptica.\nBanqueta giratoria, con cilindro pistón a gas para regulación de la altura del asiento, 5 ruedas con sistema antideslizante. Tapicería sin costuras.",
+        "image": "/imagenes/sillones/sillon-Roson-N1-Colibri_500-300x300.png"
+    },
+    {   
+        "id":11,
+        "title": "Sillón Roson Colgante S6",
+        "description": "Bloqueo de instrumentos. 2 Apoyabrazos (derecho rebatible). Panel de control en mesa odontólogo y mesa asistente.\nRetorno automático a la última posición presionando un botón. Cabezal estable: movimientos sincronizados, 3 posiciones programables. Llave general de corte.\nPanel de control táctil, jeringa de 3 funciones, suctores de alta y baja, filtros de succión externos. Puesto disponible para agregar lámpara de polimerización. Preparado para aspiración por vacío opcional.\nSalivadera cerámica extraíble y giratoria. Llenado vaso y lava bacha programable.\nAgua tibia constante. Botellón para agua tratada.\nPanel de control táctil, 5ta posición libre. Protector autoclavable.\nPedal de 4 posiciones.\nFoco de LED. Rotación multi angulo con manijas autoclavables. Sensor de encendido y apagado (No Touch).\nIntensidad de Luz > 35.000 lux.",
+        "image": "/imagenes/sillones/sillon-Roson-S6-Colgante_500-300x300.jpg"
+    },
+    {   
+        "id":12,
+        "title": "Sillón Roson Colgante N1",
+        "description": "Sillón electromecánico. Elevación de silla por sistema pantográfico.\nControles para vuelta a cero, programas de trabajo, posición salivado, retorno última posición. Cabezal multiarticulado y regulable en altura. Pedal multifunción. Dos apoya brazos, derecho giratorio y extraíble.\nUnidad dental con brazo de aluminio, de doble articulación con freno neumático.\nConsola de amplia superficie de trabajo, con tareas programadas, sistema de teclas con membranas. Negatoscopio.\nSalivadera fijada lateralmente al sillón con bacha cerámica.\nBrazo de asistente con movimientos laterales, provee el sistema de aspiración alta y baja, y filtro recolector de sólidos. Jeringa de asistenta de 3 funciones.\nAgua para los instrumentos dinámicos puede seleccionarse entre agua de red y aséptica.\nBanqueta giratoria, con cilindro pistón a gas para regulación de la altura del asiento, 5 ruedas con sistema antideslizante. Tapicería sin costuras.",
+        "image": "/imagenes/sillones/sillon-Roson-N1-Colgante_500-300x300.jpg"
+    },
+    {
+        
+        "id":13,   
+        "title": "Sillón Woson Colibri Wovo A1",
+        "description": "Respaldo y asiento de la silla con delgado espesor y diseño envolvente.\nApoyacabeza multifuncional.\nComando eléctrico multifuncional (pantalla LCD), 15 funciones.\nBandeja móvil. 4 puntas de serie y 1 opcional, mando electrónico multifunción con negatoscopio y regulación de agua-aire-spray de las puntas.\nPedal cromado, delgado y ergonómico, con accionamiento progresivo, dotado de llave para cortar o liberar el spray de las puntas y botón para inyección de aire en la cavidad oral.\nBacha de porcelana abatible. Llena vasos. Jeringa. Dos aspiradores eléctricos de saliva y sangre con ajuste de flujo de succión.\nSoporte listo para colocar la punta opcional (fotopolimerizador, cámara intraoral o similar).\nReflector LED y espejos multifacetados. Intensidad: 3000 a 38000 lux.",
+        "image": "/imagenes/sillones/sillon-woson-colibri-Wovo-A1_500x500-300x300.png"
+    },
+    {   
+        "id":14,
+        "title": "Sillón Woson Colgante Wovo A2",
+        "description": "Respaldo y asiento de la silla con delgado espesor y diseño envolvente.\nApoyacabeza multifuncional.\nComando eléctrico multifuncional (pantalla LCD), 15 funciones.\nBandeja móvil. 4 puntas de serie y 1 opcional, mando electrónico multifunción con negatoscopio y regulación de agua-aire-spray de las puntas.\nPedal cromado, delgado y ergonómico, con accionamiento progresivo, dotado de llave para cortar o liberar el spray de las puntas y botón para inyección de aire en la cavidad oral.\nBacha de porcelana abatible. Llena vasos. Jeringa. Dos aspiradores eléctricos de saliva y sangre con ajuste de flujo de succión.\nSoporte listo para colocar la punta opcional (fotopolimerizador, cámara intraoral o similar).\nReflector LED y espejos multifacetados. Intensidad: 3000 a 38000 lux.",
+        "image": "/imagenes/sillones/sillon-woson-colgante-Wovo-A2_500x500-300x300.png"
+    },
+    {   
+        "id":15,
+        "title": "Sillón Woson Colibri Wozo A1",
+        "description": "Sillón con control neumático. Trendelemburg. Parada de emergencia. Bloqueo de instrumentos.\nDinámicos. Posiciones programables. Apoyabrazo rebatible.\nSalivadera cerámica movil. Sistema de purificación de agua incorporado. Válvula solenoide.\nCalentador de agua. Mangueras de agua y aire de alta calidad.\nJeringa asistente. Mangueras de aspiración agua + aire. Panel con 12 funciones.\nJeringa 3 funciones. Negatoscopio. Panel de control con 16 funciones.\nFoco 4 Leds con sensor. Area de concentración: 160 x 80mm. Intensidad: hasta 43000 lux. Color de temperatura: 4000 k.",
+        "image": "/imagenes/sillones/sillon-woson-a1-colibri_500-300x300.png"
+    },
+    {   
+        "id":16,
+        "title": "Sillón Woson Colgante Wozo A2",
+        "description": "Sillón con control neumático. Trendelemburg. Parada de emergencia. Bloqueo de instrumentos.\nDinámicos. Posiciones programables. Apoyabrazo rebatible.\nSalivadera cerámica movil. Sistema de purificación de agua incorporado. Válvula solenoide.\nCalentador de agua. Mangueras de agua y aire de alta calidad.\nJeringa asistente. Mangueras de aspiración agua + aire. Panel con 12 funciones.\nJeringa 3 funciones. Negatoscopio. Panel de control con 16 funciones.\nFoco 4 Leds con sensor. Area de concentración: 160 x 80mm. Intensidad: hasta 43000 lux. Color de temperatura: 4000 k.",
+        "image": "/imagenes/sillones/sillon-woson-a2-colgante_500-300x300.png"
+    },
+    {   
+        "id":17,
+        "title": "Sillón Fengdan Colibri QL2028",
+        "description": "Sillón electromecánico con cabezal biarticulado, y un apoya brazo.\nTriple comando. Platina brazo auxiliar y pedal.\nSalivadera con llenado de vaso, lavabacha y calentador de agua todos con temporizadores.\nPlatina con tres salidas neumáticas más una libre.\nLámpara de foto. Negatoscópio.\nFreno neumático para fijar posición del brazo.\nBrazo auxiliar de salivadera con doble eyector , de alta y de baja.\nJeringa triple, doble circuito de agua y pedal multifunción.\nFoco Led Sensor.",
+        "image": "/imagenes/sillones/sillon-Fengdan-QL2028-Colibri_500-300x300.jpg"
+    },
+    {   
+        "id":18,
+        "title": "Sillón Fengdan Colgante QL2028",
+        "description": "Sillón tapizado de vinilo libre de costura. Accionamiento manual sin memoria.\n2 posiciones predeterminadas, entrada/salida del paciente y posición de trabajo.\nPedal inteligente multifuncional con sistema de control. Cabecera con movimientos giratorios.\nLámpara LED. Grifo de llenado de vaso. Bacha de cerámica.\nPanel de control con todas las funciones.\nMódulo de control montado sobre brazo de fijación neumática con desplazamiento suave y preciso.\nNegatoscopio.\nVálvulas de control de agua y aire.",
+        "image": "/imagenes/sillones/sillon-Fengdan-QL2028-Colgante_500-300x300.jpg"
+    },
+    {   
+        "id":19,
+        "title": "Sillón Woson Colibri Wodo Classic",
+        "description": "5 puntas de serie y 1 opcional, mando electrónico multifunción, soporte de puntas con regulación angular, negatoscopio, función stop-system y ajuste de agua-aire-spray de las puntas.\nComando electrónico con 15 funciones.\nNegatoscopio.\nPedal cromado, delgado y ergonómico. Jeringa.\nSuccionadores de saliva y sangre con encendido eléctrico, removibles y autoclavables, con ajuste del flujo.\nReflector con brazo multiarticulado de largo alcance.\nLuz natural generada por 4 lámparas LED, con una temperatura de color de 4.000 ° K combinada con una intensidad de 3.000 a 43.000 lux.",
+        "image": "/imagenes/sillones/sillon-woson-Wodo-Classic-Colibri_500-300x300.png"
+    },
+    {   
+        "id":20,
+        "title": "Sillón Woson Colgante Wodo Classic",
+        "description": "5 puntas de serie y 1 opcional, mando electrónico multifunción, soporte de puntas con regulación angular, negatoscopio, función stop-system y ajuste de agua-aire-spray de las puntas.\nComando electrónico con 15 funciones.\nNegatoscopio.\nPedal cromado, delgado y ergonómico.\nJeringa.\nSuccionadores de saliva y sangre con encendido eléctrico, removibles y autoclavables, con ajuste del flujo.\nReflector con brazo multiarticulado de largo alcance.\nLuz natural generada por 4 lámparas LED, con una temperatura de color de 4.000 ° K combinada con una intensidad de 3.000 a 43.000 lux.",
+        "image": "/imagenes/sillones/sillon-woson-Wodo-Classic-Colgante_500-300x300.png"
+    },
+    {   
+        "id":21,
+        "title": "Sillón Joinchamp ZC-9200A",
+        "description": "3 tubos para las piezas de mano. Manómetro. Jeringa de 3 vías: 2 unidades (caliente y fría).\nVisor de rayos X de 24V externo. Contenedor de residuos, porta vasos de papel, caja de tejidos y bandeja de baratijas. Eyector de saliva (agua) y evacuador de gran volumen (aire). Escupidera sin costuras de cerámica. Lámpara de luz fría: 3 niveles de iluminación. Sistema antirretracción. Panel de control auxiliar (sin teclado). Botella de agua purificada.\nSillón sin costuras con respaldo y reposacabezas. Motor silencioso. Sistema de recuperación rápida para el respaldo.\nPedal con funciones de enjuague bucal y lavado. Sillón con un solo apoyabrazos.",
+        "image": "/imagenes/sillones/sillon-joinchamp-ZC-9200A-500-300x300.png"
+    },
+    {   
+        "id":22,
+        "title": "Sillón Joinchamp ZC-S300",
+        "description": "3 tubos para las piezas de mano. Manómetro. Jeringa de 3 vías: 2 unidades (caliente y fría).\nVisor de rayos X de 24V externo. Bandeja de instrumentos moderna. Portavasos de papel, caja de pañuelos y bandeja de baratijas. Eyector de saliva (agua) y evacuador de gran volumen (aire). Escupidera de cerámica giratoria sin costuras.\nLámpara redonda con luz fría: rotación de 3 ejes. Sistema antirretracción. Panel de control auxiliar.\nTuberías internas de aire y agua. Botella de agua purificada.\nSillón sin costuras con respaldo y reposacabezas. Motor silencioso. Respaldo con tres posiciones mediante programación.\nSistema de compensación para la interacción. Pedal que realiza las funciones de enjuague (para la boca) y descarga (para la escupidera). Sillón con un solo apoyabrazos.",
+        "image": "/imagenes/sillones/sillon-joinchamp-ZC-S300-500-300x300.png"
+    },
+    {   
+        "id":23,
+        "title": "Sillón Suntem ST-D303 Colgante/Colibri",
+        "description": "Sillón dental:\nRetorno a cero con 1 posición de trabajo en memoria. Pedal multifunción. Apoya Cabeza multiarticulado. Tapizado anatómico sin costuras. Estructura solida de acero de 10 mm capaz de soportar hasta 250 kgs.\nPanel para asistente:\nPanel digital multifunción con movimiento de 90 grados. Eyector de alta succión. Lampara de fotocurado Led. Jeringa triple.\nPedal multifunción.\nFoco Odontológico:\n3 intensidades de luz 15000/20000/25000 lux.\n\nMódulo modelo Colgante:3 salidas neumáticas mas jeringa triple. Panel digital integrado. Negatoscopio a led. Platina regulable en altura con Freno neumático.\n\nMódulo modelo Colibri:\n3 salidas neumáticas mas jeringa triple con regulación de agua y aire. Llena vaso eléctrico con regulador de caudal y temperatura. Barrido de bacha temporizado eléctrico. Bacha de vidrio 12 mm. Manómetro de presión de Aire. Negatoscopio Led. Platina regulable en altura con freno neumático. Soporte de turbinas y accesorios con giro 90°. Salivadera con giro 180°. Sistema de presurización.",
+        "image": "/imagenes/sillones/Sillon-Suntem-ST-D303-colgante-colibri_500-300x300.png"
+    },
+    {   
+        "id":24,
+        "title": "Sillón Suntem ST-D307 Colgante/Colibri",
+        "description": "Modelo Colgante:\nTapizado en cuero de vaca. Platina colgante. Foco bucal LED con sensor automático.\nPlatina asistente completa c/segunda jeringa triple. Lámpara de Fotocurado LED. Doble Eyector (Alta y Baja).\n3 Salidas neumáticas + jeringa triple. Banqueta con estrella metálica y apoyabrazos. Sistema anti-aplastamiento sensor.\nCalefactor de agua en spray y vaso. 7 memorias de posiciones. Sistema de apoyacabezas “One Hand”.\nPedal 2 en 1 eléctrico + neumático.\n\nModelo Colibri:\nTapizado de cuero superconfort. Foco de 4 led frio 35.000 lux encendido automático. Asas de foco desmontables y autoclavables. Templador de agua p/llenavasos y jeringa triple. Brazo asistente con jeringa triple + doble suctor + lámpara led fotoc. + c/panel multifunción. Salivadera giratorio 90°. Bacha de cristal templado. Platina auxiliar de cristal templado.\n4 memorias de posiciones (3 programables + puesta a cero). Apoya cabezas multiarticulado.\nPlatina colibri 3 neumáticas + jeringa triple + regulador temperatura del agua. Manómetro en platina. Negatoscopio led. Brazo platina c/ freno neumático. Pedal multifunción (agua/aire + eléctrico). Sistema de seguridad auto stop.\nBanqueta multiregulable c/base metálica.",
+        "image": "/imagenes/sillones/Sillon-Suntem-ST-D307-colgante-colibri_500-300x300.png"
+    },
+    {   
+        "id":25,
+        "title": "Sillón Suntem ST-D530 Colgante/Colibri",
+        "description": "apizado de cuero anatómico sin costuras. Pedal multifunción. Apoya cabezas multiarticulado.\nEstructura solida de acero de 10 mm. Resiste hasta 250 kgs de peso del paciente.\n3 posiciones de trabajo y una memoria para salivadera. Y retorno a cero.\nPanel digital multifunción con movimiento 90 grados. Suctor de alta succión. Jeringa triple. Lámpara led para fotocurado.\nFoco led:\nRegulación de intensidad por medio de sensor de movimientos. Intensidad de 20.000 a 45.000 lux.\nPlatina:\n3 salidas neumáticas más jeringa triple con regulación de agua y aire.\nLlena vaso con regulación de temperatura y barrido de bacha con habilitación digital.\nPanel digital multifunción. Negatoscopio Led Platina regulable en altura con Freno Neumático.",
+        "image": "/imagenes/sillones/Sillon-Suntem-ST-D530-colibri_colgante_500-300x300.png"
+    }
+
+]

@@ -1,0 +1,22 @@
+[
+    {   "id":1,
+        "title": "Pieza de Mano Coxo recta",
+        "description": "Pieza de mano de baja velocidad: accionamiento directo 1:1\nPulverizar externo.\nFresa aplicable quirúrgico. 35 mm\nRotación MAX 40.000 rpm.",
+        "image": "/imagenes/rotatorios/PiezaDeMano/Coxo-pieza-de-mano-recta_500-300x300.jpg"
+    },
+    {   "id":2,
+        "title": "Pieza de mano Being recta",
+        "description": "Pieza de mano de baja velocidad tipo E con relación 1:1.\nSistema de irrigación externo.\nPresión de aire en la parte trasera: 245-392 KPA (2,5-4,0 kgf/cm2).\nPresión del agua: 198KPA (2kg).\nVelocidad de rotación: 22000-27000 rpm.\nPiedras compatibles: 2,334-2,355mm (diámetro).\nIntensidad del sonido: ≤ 70db.",
+        "image": "/imagenes/rotatorios/PiezaDeMano/Being-piezademano-Rose201SH-500x500-1-300x300.png"
+    },
+    {   "id":3,
+        "title": "Pieza de mano Gacela Recta",
+        "description": "Transmisión 1:1.\nSistema de acoplamiento INTRA.\nSujeción de fresa con boquilla a rosca regulable.\nConstruida en acero inoxidable.\nTratamiento superficial de cromo duro antireflex, suave al tacto y de fácil limpieza.",
+        "image": "/imagenes/rotatorios/PiezaDeMano/Gacela-pieza-de-mano-500x500-1-300x300.png"
+    },
+    {   "id":4,
+        "title": "Pieza de Mano KMD Orion Recta",
+        "description": "Hasta 20.000 RPM.\nPrecision en el tallado.\n1:1 Sistema Intra.",
+        "image": "/imagenes/rotatorios/PiezaDeMano/Pieza-de-mano-KMD-Orion_Recta_500x500-300x300.png"
+    } 
+]

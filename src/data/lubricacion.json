@@ -1,0 +1,37 @@
+[
+    {   "id":1,
+        "title": "Aceite lubricante Gacela",
+        "description": "Aceite lubricante en spray para instrumental rotatorio.\nSpray x 250ml.",
+        "image": "/imagenes/lubricacion/Gacela-Aceite-lubricante-450-300x300.jpg"
+    },
+    {   "id":2,
+        "title": "Aceite lubricante KMD",
+        "description": "Aceite lubricante para instrumental odontológico rotatorio.",
+        "image": "/imagenes/lubricacion/KMD-Aceite-lubricante-450-300x300.jpg"
+    },
+    {   "id":3,
+        "title": "Kit Limpieza y Lubricación Gacela",
+        "description": "Aceite para limpieza y lubricación de instrumento rotatorio.\nSpray x 250 ml.",
+        "image": "/imagenes/lubricacion/Gacela-Kit-Lubricante-450-300x300.jpg"
+    },
+    {   "id":4,
+        "title": "Lubricador de piezas de mano Woson",
+        "description": "Panel muy simple permite el funcionamiento y regulación de la lubricación de las puntas individualmente o todas simultáneamente.\nPermite una lubricación corta, media o intensa, individualmente o no.\nConexión con angulación regulable, inyecta lubricante donde el spray tradicional no alcanza.\nConexión intra para contra ángulo y punta recta y conexiones de borden para baja y alta rotación.\nDepósito de 350 ml con visor frontal para monitoreo del nivel de lubricante.\nFiltro de la red de aire comprimido en la parte posterior, con drenaje manual para condensados.\nOpera con presión de trabajo ajustable hasta 80 PSI, compatible con el tipo de punta a ser lubricado.\nTapa frontal acrílica con apertura superior y eje en la parte inferior y soportes para filtros de algodón que evitan dispersión de niebla y facilita la limpieza interna.\nAcompañan cable de fuerza, depósito de aceite, embudo de abastecimiento, kit de filtros de algodón, anillos de goma y conexión de 3 vías.",
+        "image": "/imagenes/lubricacion/lubricacion-500-300x300.jpg"
+    },
+    {   "id":5,
+        "title": "Lubricante W&H MD-200",
+        "description": "Cartucho de 200 ml.\nAceite lubricante para unidades de mantenimiento Assistina 3×3 y 3×2.\nPara la lubricación de las piezas de transmisión.",
+        "image": "/imagenes/lubricacion/WH-Lubricante-service-oil-f1-md-200_500-300x300.jpg"
+    },
+    {   "id":6,
+        "title": "Lubricante W&H MD-400",
+        "description": "W&H Service Oil F1 es un aceite especial completamente sintético y de alta pureza, que fue desarrollado especialmente para el mantenimiento de turbinas, piezas de mano y contra-ángulos, instrumentos de cirugía, scalers y micromotores de aire.\nSpray 400 ml.",
+        "image": "/imagenes/lubricacion/WH-Lubricante-service-oil-f1-md-400-300x300.jpg"
+    },
+    {   "id":7,
+        "title": "Lubricante W&H MD-500",
+        "description": "Botella de aceite 500 ml.\nAceite lubricante MD-500 Bio-compatible, ecológico.\nPara sistemas de mantenimiento de instrumentos dentales.",
+        "image": "/imagenes/lubricacion/WH-Lubricante-service-oil-f1-md-500_500-300x300.jpg"
+    }
+]

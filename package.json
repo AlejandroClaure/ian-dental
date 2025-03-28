@@ -1,5 +1,6 @@
 {
   "name": "ian-dental",
+  "type": "module",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,13 +10,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emailjs/browser": "^4.4.1",
+    "next": "^15.2.1",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "next": "15.2.1"
+    "react-dom": "^19.0.0"
   },
   "devDependencies": {
+    "@eslint/eslintrc": "^3",
     "eslint": "^9",
-    "eslint-config-next": "15.2.1",
-    "@eslint/eslintrc": "^3"
+    "eslint-config-next": "15.2.1"
   }
 }

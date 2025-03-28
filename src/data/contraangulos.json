@@ -1,0 +1,72 @@
+[
+    {   "id":1,
+        "title": "Contra angulo Coxo",
+        "description": "Spray a ruleman.\nSistema intra.\nHasta 25.000 rpm.\nAutoclavable.",
+        "image": "/imagenes/rotatorios/ContraAngulos/Coxo-contra-angulo-1_1_500-300x300.jpg"
+    },
+    {   "id":2,
+        "title": "Contra Angulo Being Rose 201 CA gatillo",
+        "description": "Sistema de refrigeración intra.\nCambio de fresa con gatillo.\nFunciona con todos los CA intra.\nCalidad bajo normas CE.\nAutoclavable 135 grados.\nRefrigeración: presión de aire 245-392kpa (2.5-4 kgf/cm2)\nPresión de agua: 198 lpa (2kg)\nVelocidad máxima: 20.000/25.000 RPM\nFresa aplicable: diámetro 2.334-2.355mm\nSonido: ≤ 70DB",
+        "image": "/imagenes/rotatorios/ContraAngulos/contra-angulo-Being-Rose-201CA-300x300.png"
+    },
+    {   "id":3,
+        "title": "Contra Angulo Being Rose 201 CA PB",
+        "description": "Relación 1:1.\nPush button.\nSistema de irrigación externo.\nPresión de aire en la parte trasera: 245-392 KPA (2,5-4,0 kgf/cm2)\nPresión de agua: 198KPA (2kg)\nVelocidad de rotación: 22000-27000 rpm\nPiedras compatibles: 2,334-2,355mm (diámetro)\nIntensidad del sonido: ≤ 70db",
+        "image": "/imagenes/rotatorios/ContraAngulos/contra-angulo-Being-Rose-201CA-Push-Button-300x300.png"
+    },
+    {   "id":4,
+        "title": "Contra Angulo Being Rose 202 CA PB",
+        "description": "Relación 1:1.\nPush Button.\nSistema de irrigación interno y triple spray.\nPresión de aire en la parte trasera: 245-392 LPA (2,5-4,0 kgf/cm2)\nPresión de agua: 198KPA (2kg)\nVelocidad de rotación: 22000-27000 rpm\nPiedras compatibles: 2,334-2,355mm (diámetro)\nIntensidad del sonido: ≤ 70db",
+        "image": "/imagenes/rotatorios/ContraAngulos/Contra-angulo-Being-Rose-202CA-1_1-PB-500x500-1-300x300.jpg"
+    },
+    {   "id":5,
+        "title": "Contra Angulo KMD Orion Botón",
+        "description": "Push Button.\nRefrigeración externa incorporada.\nPrecision en el tallado.\n1:1 Sistema Intra.",
+        "image": "/imagenes/rotatorios/ContraAngulos/contra-angulo-KMD-Orion_Boton_500x500-300x300.png"
+    },
+    {   "id":6,
+        "title": "Contra Angulo KMD Orion Gatillo",
+        "description": "Refrigeración externa incorporada.\nPrecision en el tallado.\n1:1 Sistema Intra.",
+        "image": "/imagenes/rotatorios/ContraAngulos/contra-angulo-KMD-Orion_Gatillo_500x500-300x300.png"
+    },
+    {   "id":7,
+        "title": "Contra Angulo Gacela Sedna gatillo",
+        "description": "Cabezal a rodamientos.\nSujeción de la fresa a gatillo.\nDiseño ergonómico.\nSuperficie suave al tacto y de fácil limpieza.\nRelación: 1:1.\nVelocidad: hasta 30.000 r.p.m.\nAcoplamiento INTRA.\nRefrigeración externa.",
+        "image": "/imagenes/rotatorios/ContraAngulos/Gacela-contra-angula-sedna-500x500-1-300x300.png"
+    },
+    {   "id":8,
+        "title": "Contra Angulo KMD Orion Luz led",
+        "description": "Luz led.\nSistema intra 1:1.\nTallado preciso.\nRefrigeración externa incorporada.\nDisponible sistema gatillo y sistema botón.",
+        "image": "/imagenes/rotatorios/ContraAngulos/contra-angulo-KMD-orion-luz-led-500x500-1-300x300.png"
+    },
+    {   "id":9,
+        "title": "Contra Angulo Being Rose 202 PB",
+        "description": "Relación 20:1.\nSistema de irrigación interna.\nPush Button.\nSimple spray.\nVelocidad: 44.000 rpm.\nAutoclavable.",
+        "image": "/imagenes/rotatorios/ContraAngulos/contra-angulo-being-20-1_500x500-300x300.png"
+    },
+    {   "id":10,
+        "title": "Contra Angulo Coxo reductor PB",
+        "description": "Contra Angulo reductor 20:1 para implantología.\nDoble sistema de irrigación: interna y externa.\nTraba fresa.\nA rulemanes.\nMax. 40.000 RPM.\nTorque max. 70N cm.",
+        "image": "/imagenes/rotatorios/ContraAngulos/Coxo-contra-angulo-20_1-500-300x300.png"
+    },
+    {   "id":11,
+        "title": "Contra Angulo Woodpecker DTE PB",
+        "description": "Contra angulo reductor 20:1\nSistema Push Button.\nMax Torque 80Ncm.\nSimple Spray.\nIrrigación interna.\nAlta precisión que permite una rotación estable en alta y baja velocidad.\nRodamientos alemanes que garantizan rendimiento y durabilidad.",
+        "image": "/imagenes/rotatorios/ContraAngulos/Contra-angulo-Woodpecker-20-1_500-300x300.jpg"
+    },
+    {   "id":12,
+        "title": "Contra Angulo KMD Lumiere",
+        "description": "Reducción 20:1.\nRefrigeración externa.\nPush button.",
+        "image": "/imagenes/rotatorios/ContraAngulos/contra-angulo-KMD-lumiere-500x500-1-300x300.png"
+    },
+    {   "id":13,
+        "title": "Contra Angulo Being Rose 202 CA PB",
+        "description": "Sistema de agarre intra.\nCambio de fresa con gatillo.\nFunciona con todos los CA intra.\nCalidad bajo normas CE.\nAutoclavable 135 grados.\nRefrigeración: presión de aire 245-392kpa (2.5-4 kgf/cm2)\nPresión de agua: 198lpa (2kg).\nVelocidad máxima: 20.000/25.000 RPM.\nFresa aplicable: diámetro 2.334-2.355mm.\nSonido: ≤ 70DB.",
+        "image": "/imagenes/rotatorios/ContraAngulos/Contra-angulo-Being-Rose-202CA-1_5-PB-300x300.png"
+    },
+    {   "id":14,
+        "title": "Contra angulo Coxo PB",
+        "description": "Velocidad 1:5\nTipo de mandril: pulsador.\nSpray: agua externa.\nFresa aplicable: 1.6 mm.\nVelocidad de rotación: alrededor de 200.000 rpm",
+        "image": "/imagenes/rotatorios/ContraAngulos/Coxo-contra-angulo-1_5-500-300x300.png"
+    }
+]

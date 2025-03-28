@@ -1,95 +1,147 @@
-import Image from "next/image";
-import styles from "./page.module.css";
+'use client';
+
+import Link from 'next/link';
+import Image from 'next/image';
+import { getCategoryData } from './lib/data';
 
 export default function Home() {
-  return (
-    <div className={styles.page}>
-      <main className={styles.main}>
-        <Image
-          className={styles.logo}
-          src="/next.svg"
-          alt="Next.js logo"
-          width={180}
-          height={38}
-          priority
-        />
-        <ol>
-          <li>
-            Get started by editing <code>src/app/page.js</code>.
-          </li>
-          <li>Save and see your changes instantly.</li>
-        </ol>
+  // Obtener el primer producto de cada categoría
+  const categories = [
+    'sillones',
+    'compresores',
+    'cavitadores',
+    'contraangulos',
+    'piezademano',
+    'micromotor',
+    'turbinas',
+    'duchabucal',
+    'estufas',
+    'autoclaves',
+    'impresoras_fresadoras',
+    'insertos_de_ultrasonido',
+    'lamparas',
+    'lavadoras',
+    'lubricacion',
+    'motores_de_implante_y_cirugia',
+    'radiologia',
+    'sistema_de_aspiracion',
+    'mecanicadental',
+    'podologia', 
+  ];
 
-        <div className={styles.ctas}>
-          <a
-            className={styles.primary}
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
+  const featuredProducts = categories.map((category) => {
+    const products = getCategoryData(category);
+    return products.length > 0 ? { ...products[0], category } : null;
+  }).filter(product => product !== null); // Filtrar categorías sin productos
+
+  // Función para formatear el nombre de la categoría
+  const formatCategoryName = (category) => {
+    return category
+      .replace(/_/g, ' ') // Reemplaza todos los "_" por espacios
+      .split(' ') // Divide en palabras
+      .map(word => word.charAt(0).toUpperCase() + word.slice(1)) // Capitaliza cada palabra
+      .join(' '); // Une las palabras con espacios
+  };
+
+  return (
+    <main className="home-page">
+      {/* Sección Hero */}
+      <div className="hero">
+        <h1 style={{ fontSize: '2.5rem', marginBottom: '1rem' }}>
+          Equipamiento Odontológico de Calidad
+        </h1>
+        <p style={{ fontSize: '1.2rem', marginBottom: '2rem' }}>
+          Todo lo que necesitas para tu consultorio en un solo lugar.
+        </p>
+        <Link href="#productos">
+          <button
+            style={{
+              backgroundColor: '#2ecc71',
+              color: 'white',
+              border: 'none',
+              padding: '0.75rem 2rem',
+              borderRadius: '5px',
+              cursor: 'pointer',
+              fontSize: '1rem',
+            }}
           >
-            <Image
-              className={styles.logo}
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={20}
-              height={20}
-            />
-            Deploy now
-          </a>
-          <a
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-            className={styles.secondary}
-          >
-            Read our docs
-          </a>
+            Explorar Productos
+          </button>
+        </Link>
+      </div>
+
+      {/* Sección Nuestros Productos con Ancla */}
+      <div id="productos" className="products-section">
+        <h2 style={{ fontSize: '2rem', color: '#2c3e50', marginBottom: '2rem', textAlign: 'center' }}>
+          Nuestros Productos
+        </h2>
+        <div className="product-grid">
+          {featuredProducts.map((product) => (
+            <div key={product.category} className="product-card">
+              <div className="product-circle">
+                <Image
+                  src={product.image}
+                  alt={product.category}
+                  width={200}
+                  height={200}
+                  style={{ objectFit: 'cover', borderRadius: '50%' }}
+                />
+                <div className="product-overlay">
+                  <Link href={`/${product.category}`}>
+                    <button className="view-more">Ver más</button>
+                  </Link>
+                </div>
+              </div>
+              <h3 style={{ fontSize: '1.1rem', color: '#2c3e50', marginTop: '1rem', textAlign: 'center' }}>
+                {formatCategoryName(product.category)} {/* Aplicamos la función aquí */}
+              </h3>
+            </div>
+          ))}
         </div>
-      </main>
-      <footer className={styles.footer}>
-        <a
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/file.svg"
-            alt="File icon"
-            width={16}
-            height={16}
-          />
-          Learn
-        </a>
-        <a
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/window.svg"
-            alt="Window icon"
-            width={16}
-            height={16}
-          />
-          Examples
-        </a>
-        <a
-          href="https://nextjs.org?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/globe.svg"
-            alt="Globe icon"
-            width={16}
-            height={16}
-          />
-          Go to nextjs.org →
-        </a>
-      </footer>
-    </div>
+      </div>
+
+      {/* Sección Testimonios */}
+      <div className="testimonials">
+        <h2 style={{ fontSize: '2rem', color: '#2c3e50', marginBottom: '2rem' }}>
+          Lo que dicen nuestros clientes
+        </h2>
+        <div style={{ display: 'flex', justifyContent: 'center', gap: '2rem', flexWrap: 'wrap' }}>
+          <div className="testimonial-card">
+            <p>"Excelente calidad en los sillones y un servicio técnico impecable."</p>
+            <p style={{ fontStyle: 'italic', marginTop: '0.5rem' }}>- Dr. Juan Pérez</p>
+          </div>
+          <div className="testimonial-card">
+            <p>"Los equipos de esterilización son confiables y fáciles de usar."</p>
+            <p style={{ fontStyle: 'italic', marginTop: '0.5rem' }}>- Dra. María Gómez</p>
+          </div>
+          <div className="testimonial-card">
+            <p>"Gran variedad de productos y entrega rápida, recomendado!"</p>
+            <p style={{ fontStyle: 'italic', marginTop: '0.5rem' }}>- Dr. Carlos López</p>
+          </div>
+        </div>
+      </div>
+
+      {/* Sección Llamado a la Acción */}
+      <div className="call-to-action">
+        <h2 style={{ fontSize: '2rem', color: '#2c3e50', marginBottom: '1rem' }}>
+          ¿Listo para equipar tu consultorio?
+        </h2>
+        <Link href="/contacto">
+          <button
+            style={{
+              backgroundColor: '#2ecc71',
+              color: 'white',
+              border: 'none',
+              padding: '0.75rem 2rem',
+              borderRadius: '5px',
+              cursor: 'pointer',
+              fontSize: '1rem',
+            }}
+          >
+            Contáctanos
+          </button>
+        </Link>
+      </div>
+    </main>
   );
 }

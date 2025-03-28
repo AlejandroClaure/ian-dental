@@ -1,0 +1,92 @@
+[
+    {   "id":1,
+        "title": "Paralelómetro Drillco M80",
+        "description": "Paralelómetro montado en 5 rodamientos de alta calidad que aseguran la precisión necesaria con una suavidad notable en los movimientos.\nMesa de sujeción magnética.",
+        "image": "/imagenes/mecanicadental/Drillco-paralelometro-m80-500.jpg"
+    },
+    {   "id":2,
+        "title": "Paralelómetro Drillco M100",
+        "description": "Paralelómetro montado en 5 rodamientos de alta calidad que aseguran la precisión necesaria con una suavidad notable en los movimientos.\nTriple articulación.\nMesa de sujeción de alta precisión con base giratoria, avance rápido y nivel.\nFresador incorporado para montar pieza de mano de micromotor.\nSistema de bajada con cilindro neumático para subida lenta, ideal para colocación de attachments y encerados.\nKit de 7 herramientas incluído.",
+        "image": "/imagenes/mecanicadental/drillco-paralelometro-M100-500-300x300.jpg"
+    },
+    {   "id":3,
+        "title": "Paralelometro pendular Drillco",
+        "description": "Torre tipo péndulo para eliminar ángulos negativos en los modelos.\nCon base de fijación magnética con vuelta a cero.",
+        "image": "/imagenes/mecanicadental/drillco-paralelometro-pendular-500-300x300.jpg"
+    },
+    {   "id":4,
+        "title": "Soporte de pared Drillco para torno",
+        "description": "Soporte de pared para torno colgante.\nCon resorte que absorve el torque inicial de la máquina.",
+        "image": "/imagenes/mecanicadental/Drillco-soporte-pared-500-300x300.jpg"
+    },
+    {   "id":5,
+        "title": "Pulidora de mesa Drillco S900",
+        "description": "Completamente blindada y muy silenciosa.\nCon led indicador de encendido.\nCarcaza de moderno diseño en fundición de aluminio, esmaltada y horneada, varios colores.\nMontada en bujes de pulvimetalurgia auto-lubricados y oscilantes.\nApoyos antideslizantes.\nIncluye conos porta paños de acero.\nPortapaños (izq.), Portafresas (derecho), Portapiedras (derecho), Portapaños derecho opcional.\nApto para trabajo continuo.\nPotencia: 200 Watts. Velocidad: 2.800 rpm (50 ciclos). Frecuencia: 50 ciclos. Peso: 6,3 Kg.",
+        "image": "/imagenes/mecanicadental/drillco-pulidora-mesa-500-300x300.jpg"
+    },
+    {   "id":6,
+        "title": "Pulidora de mesa Drillco S915",
+        "description": "Montada en rulemanes blindados de alta velocidad.\nSuper liviana, con ventilación interior.\nPeso: 5,500 Kg.",
+        "image": "/imagenes/mecanicadental/drillco-pulidora-mesa-S915-500-300x300.jpg"
+    },
+    {   "id":7,
+        "title": "Recortadora de yeso Drillco",
+        "description": "Moderno diseño. Totalmente blindada muy silenciosa. Indicador luminoso de encendido.\nDiseñada en base a que su mantenimiento preventivo sea realizado por el usuario y no requiera servicio técnico postventa.\nCuerpo frontal fabricado en resina acetal que es totalmente resistente e inalterable a la acción del agua y del yeso.\nLa máquina es libre de oxidación y sulfatación. Su potente motor normalizado permite desgastar fácilmente los modelos.\nLas partes metálicas en contacto con el agua y el eje del motor son de acero inoxidable.\nLa apertura de su puerta frontal con un sistema de bisagras y cierres tipo attache permite realizar fácilmente cualquier operación de mantenimiento preventivo (dar vuelta el disco, reemplazarlo, destapar duchador, limpiar la unidad diariamente).\nSu mesa de trabajo móvil con regulación de ángulo tiene guías de referencia de 0°-10°-30°.\nEstá inyectada en aluminio, esmaltada en epoxi y posteriormente mecanizada, lo que asegura una superficie perfecta para deslizar los modelos de yeso. Su disco reforzado con un espesor de 8mm tiene un disco metálico de apoyo, lo que permite presionar el disco sin riesgo de rotura.\nSu textura con canales helicoidales acelera el desgaste del modelo.\nEl duchador tiene un conector directo en la entrada externa de agua, conectándose al cerrar la puerta de la recortadora, dicha entrada externa posee regulación de caudal.\nPotencia: 700W. Velocidad: 1400 rpm.",
+        "image": "/imagenes/mecanicadental/Drillco-recortadora-yeso-500-300x300.jpg"
+    },
+    {   "id":8,
+        "title": "Vibradora de yeso Drillco",
+        "description": "Permite mejorar la terminación y el compactado al evitar la formación de burbujas.\nPosee cuatro patas con tope para adherirse a la mesa de trabajo.\nIntensa vibración.\nBandeja soft de material santoprene.\nPeso: 2,8 Kg.\nDimensión de área útil: 145mm x 120mm.",
+        "image": "/imagenes/mecanicadental/drillco-vibradora-yeso-500-300x300.jpg"
+    },
+    {   "id":9,
+        "title": "Calentador de anestesia Drillco",
+        "description": "Mantiene el anestubo a 37°, de esta forma se disminuye el dolor y la sensación negativa en el paciente cuando se aplica la anestesia.\nLed indicador de temperatura en progreso.\nEl equipo llega a la temperatura de 37° C en menos de 10 minutos y mantiene la misma en forma electrónicamente controlada durante el tiempo que el equipo este encendido.\nConstruido con materiales de excelente calidad, cuerpo de aluminio anodizado mecanizado y base de poliamida.",
+        "image": "/imagenes/mecanicadental/Drillco-calentador-anestesia-500-300x300.jpg"
+    },
+    {   "id":10,
+        "title": "Calentador de carillas/silano Drillco",
+        "description": "El calentador de Carillas/Silano Drillco dispone de temperaturas programables con display indicador de temperatura en régimen.\nEl rango de programación es muy amplio, pero usualmente se opera en un rango de temperatura de 55°C para aumentar la eficacia de la silanización en la superficie cerámica, al temperar las restauraciones (carillas, incrustaciones y coronas) se mejora en forma óptima la adhesión final de la restauración.\nConstruído con materiales de excelente calidad, control de temperatura con microprocesador digital, cuerpo de aluminio anodizado mecanizado y base de poliamida, fuente switching de alta calidad.\nLa tapa plástica del equipo posee filtros UV para que no se generen reacciones de polimerización durante la preparación de las restauraciones.",
+        "image": "/imagenes/mecanicadental/Drillco-calentador-carillas-500-300x300.jpg"
+    },
+    {   "id":11,
+        "title": "Calentador de composite Drillco",
+        "description": "El calentador de Composite Drillco dispone de temperaturas programables con display indicador de temperatura en régimen.\nEl rango de programación es muy amplio, pero usualmente se opera en dos rangos de temperatura, el primero en torno a los 37°C para que el composite se encuentre maleable durante la operatoria dental y el segundo rango por encima de 55°C mantiene el composite fluidificado para el cementado de restauraciones adhesivas, sean incrustaciones o carillas dentales.\nConstruído con materiales de excelente calidad, control de temperatura con microprocesador digital, cuerpo de aluminio anodizado mecanizado y base de poliamida, fuente switching de alta calidad.\nPosee 3 cavidades con dimensiones que se adaptan a todas las marcas comerciales de composite del mercado (15mm).",
+        "image": "/imagenes/mecanicadental/Drillco-calentador-composite-500-300x300.jpg"
+    },
+    {   "id":12,
+        "title": "Microarenadora Drillco MSD",
+        "description": "Gran eficiencia en la limpieza y micro rugosidades de superficies cerámicas, compuestos y metales antes de la etapa de cementación. Como coronas, puentes, incrustaciones, cierres de ortodoncia, etc.\nBoquilla giratoria 320°.\nPrecisión y fácil manejo de su válvula accionada con un dedo.\nSimple conexión a la línea de aire.\nDeposito cristal.\nEsterilizable en autoclave.",
+        "image": "/imagenes/mecanicadental/drillco-microarenadora-500-300x300.jpg"
+    },
+    {   "id":13,
+        "title": "Microarenadora Drillco inoxidable MSD",
+        "description": "Diseñada íntegramente en acero inoxidable quirúrgico.\nTodas sus piezas son mecanizadas individualmente por equipos de alta precisión logrando un instrumento preciso, sensible en el uso, cómodo en la mano y una vida útil de muchos años.\nEl equipo fue diseñado para generar abrasión con el uso de oxido de silicio, generando una limpieza de las superficie basada en la proyección de este material mediante aire comprimido.\nCómodo y perfectamente equilibrado en el agarre.\nGran eficiencia en la limpieza y micro rugosidades de superficies cerámicas, compuestos y metales antes de la etapa de cementación. Como coronas, puentes, incrustaciones, cierres de ortodoncia, etc.\nBoquilla giratoria 360°.\nPrecisión y fácil manejo de su válvula accionada con un dedo.\nSimple conexión a la línea de aire.\nDeposito cristal.\nEsterilizable en autoclave.",
+        "image": "/imagenes/mecanicadental/Drillco-microarenadora-msd-500-300x300.jpg"
+    },
+    {   "id":14,
+        "title": "Microcámara arenado Drillco",
+        "description": "Complemento ideal de la Micro Arenadora.\nConstituye el espacio de trabajo dentro del consultorio dental o laboratorio.\nSus dimensiones permiten un trabajo cómodo.\nLuminosa y moderna, permite concentrar el trabajo sucio del consultorio en un contenedor elegante.\nPosee un sistema silencioso de extracción de los polvos finos generados en la abrasión, el resto del óxido de silicio queda contenido en la base de la propia cámara para su recolección.\nDimensiones: Ancho 43 cm, alto 25 cm, profundidad 32 cm.\nPeso 1.3 kg.\nConexión 220 v.",
+        "image": "/imagenes/mecanicadental/drillco-Microcamara-arenado-500-300x300.jpg"
+    },
+    {   "id":15,
+        "title": "Soporte de mesa Drillco para torno",
+        "description": "Soporte de mesa telescópico de altura regulable con prensa para fijación a cualquier tipo de mesada.\nIncluye resortes que absorbe el toque inicial de la máquina.",
+        "image": "/imagenes/mecanicadental/Drillco-soporte-mesa-torno-500-300x300.jpg"
+    },
+    {   "id":16,
+        "title": "Torno Drillco colgante Serie 500",
+        "description": "Para severas condiciones de trabajo.\nPotencia: 185 W (1/4 hp). Velocidad: 18.000 rpm. Motor MU 82/45.\n220 Volts. Reóstato electrónico velocidad variable.\nNuevo diseño de carcaza serie 500 inyectada en poliamida con carga de vidrio.\nPorta carbones externos, con parada automática por desgaste de carbones, bornera para cables de salida, rotor balanceado electrónicamente y montado en la parte superior e inferior sobre dos rodamientos de esferas de doble protección alojados en cunas de goma acrilonitrilo para absorber ruidos y vibraciones.\nDoble aislación eléctrica total.",
+        "image": "/imagenes/mecanicadental/Drillco-torno-colgante-Serie-500-500-300x300.jpg"
+    },
+    {   "id":17,
+        "title": "Mezclador con vacío Drillco",
+        "description": "Mezclador manual con vacío.\nElimina las burbujas de aire que producen defectos en los trabajos.\nPaleta mezcladora de acero inoxidable.\nRobusta manija y manguera siliconada.\nSet de oring de repuesto.",
+        "image": "/imagenes/mecanicadental/drillco-mezclador-con-vacio-500-300x300.jpg"
+    },
+    {   "id":18,
+        "title": "Micromotor Drillco Marathon Drill",
+        "description": "Equipo robusto, simple y portátil.\nPosee un potente motor eléctrico de 35.000 rpm y gran fuerza de torque para abrasión de metales y aleaciones.\nPinza de 2,3 mm con apertura mediante botón de freno y desajuste de la puntera.\nPieza de mano pequeña, transmisión directa cardánica, cómoda.\nOpción sentido de giro inverso.\nIncluye pedal On/Off.",
+        "image": "/imagenes/mecanicadental/Drillco-marathon-drill-500-300x300.jpg"
+    }
+]

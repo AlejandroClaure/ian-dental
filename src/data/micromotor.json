@@ -1,0 +1,22 @@
+[
+    {   "id":1,
+        "title": "Micromotor Being Rose",
+        "description": "Micromotor neumático sistema intra.\nSistema de spray externo.\nAcople borden 2 orificios.",
+        "image": "/imagenes/rotatorios/Micromotor/Being-micromotor-Rose-201A-300x300.png"
+    },
+    {   "id":2,
+        "title": "Micromotor Gacela Evo Power",
+        "description": "Sistema de acoplamiento INTRA.\nExcelente Torque.\nRefrigeración externa protegida.\nMarcha y contramarcha con velocidad regulable en ambos sentidos de giro.\nMuy silencioso.",
+        "image": "/imagenes/rotatorios/Micromotor/Gacela-Micromotor-500x500-1-300x300.png"
+    },
+    {   "id":3,
+        "title": "Micromotor KMD Orion",
+        "description": "Excelente potencia.\nAutoclave a 135° C.\nVelocidad regulable.\n5.000 A 20.000 R.P.M.",
+        "image": "/imagenes/rotatorios/Micromotor/Orion_Micromotor-300x300.png"
+    },
+    {   "id":4,
+        "title": "Micromotor Coxo",
+        "description": "Sistema Intra con spray.\nDiseño Ultra Ergonómico.\nExcelente Torque.\nSuperficie suave al tacto y de fácil limpieza.\nVelocidad: 5.000 a 25.000 rpm.\nEnganche tipo INTRA.\nRefrigeración Externa.",
+        "image": "/imagenes/rotatorios/Micromotor/Coxo-micromotor_500-300x300.png"
+    }
+]

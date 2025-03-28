@@ -1,0 +1,28 @@
+[
+    
+    {   "id":1,
+        "title": "Fresadora VHF K4",
+        "description": "Restauraciones en ultra HD.\nHusillo de alta calidad con rodamiento de 4 puntos para una precisión de concentricidad máxima.\nPrecisión de repetición de 5 micras.\nAltas velocidades de rotación de hasta 60.000 RPM.\nCalibración automática del eje.\nProcesa circonia, compuestos y plásticos, así como CoCr.\nUna construcción robusta sin compromisos con dimensiones extremadamente compactas.\nCuatro ejes trabajando simultáneamente para una alta diversidad de indicaciones.",
+        "image": "/imagenes/impresorasYFresadoras/Fresadora-VHF-K4_500-300x300.png"
+    },
+    {   "id":2,
+        "title": "Impresora Whip-Mix 3D Veribuild",
+        "description": "Puede imprimir modelos extremadamente precisos y guías quirúrgicas precisas con espesores de corte entre 25 y 100 micrones.\nPuede imprimir resinas de impresión de 405 nm utilizando el archivo adecuado con su software avanzado.\nSistema de material abierto.\nAlta resolución 47 µm.\nSoluciones completas de flujo de trabajo.\nSoftware avanzado.\nWi-Fi habilitado.\nImpresión de superficie lisa.\nCalibración automática.",
+        "image": "/imagenes/impresorasYFresadoras/Whip_Mix_impresora_500-300x300.png"
+    },
+    {   "id":3,
+        "title": "Fresadora VHF K5+",
+        "description": "Restauraciones en Ultra-HD.\nHusillo de primera calidad con rodamientos de bolas de cerámica híbridos cuádruples para una máxima precisión de funcionamiento.\nPrecisión de repetición de 3 micrones.\nAccesibilidad ilimitada al material en formato de disco de 98 mm, bloques separados y soportes para pilares prefabricados disponibles.\nCubre el rango más amplio de indicaciones, debido a un ángulo de rotación de ± 35° en el 5° eje y hasta 40 mm. de espacios en blanco.\nIonizador y circulación de aire mejorada para facilitar la limpieza de la máquina.\nTecnología DirectDisc para una sujeción de disco revolucionaria.\nCambiador automático para 16 herramientas.\nFresa los materiales más duros del mercado, incluído CoCr.\nPotente eje de 500 vatios y 60.000 RPM.",
+        "image": "/imagenes/impresorasYFresadoras/Fresadora-VHF-K5-plus_500-300x300.jpg"
+    },
+    {   "id":4,
+        "title": "Fresadora VHF N4",
+        "description": "Precisión sobresaliente.\nRestauraciones en Ultra-HD.\nHusillo con 4 rodamientos a bolas de cerámica híbrida.\n3 µm de precisión de repetición.\n8 boquillas de líquido para la refrigeración uniforme de la herramienta.\nRevoluciones de hasta 60.000 rpm.\n30 materiales de bloque.\n> 140 pilares de titanio y CoCr prefabricado.\nMecanizado simultáneo de hasta 3 bloques.",
+        "image": "/imagenes/impresorasYFresadoras/Fresadora-VHF-N4_500-300x300.png"
+    },
+    {   "id":5,
+        "title": "Fresadora VHF N4+",
+        "description": "Pulidos en húmedo.\n8 boquillas de líquido para una refrigeración uniforme de la herramienta.\nHusillo con 4 rodamientos a bolas de cerámica híbrida.\nRestauraciones en Ultra-HD.\nFresado de bloques de cerámica de vidrio, compuestos y circonio, así como pilares de titanio.",
+        "image": "/imagenes/impresorasYFresadoras/Fresadora-VHF-N4-plus_500-300x300.jpg"
+    }  
+]

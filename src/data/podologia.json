@@ -1,0 +1,98 @@
+[
+    {   
+        "id":1,
+        "title": "Micromotor Drillco M2 Premier",
+        "description": "Micromotor análogo desarrollado con tecnología de última generación, que combina potencia con suavidad y fácil manejo.\nUna opción versátil y accesible para su moderno laboratorio de prótesis.\nVelocidad variable de 0 a 35.000 rpm.",
+        "image": "/imagenes/podologia/Drillco-micromotor-m2-premiere-500-300x300.jpg"
+    },
+    {   
+        "id":2,
+        "title": "Micromotor Drillco M1 NAILS",
+        "description": "Producto diseñado exclusivamente para trabajos de uñas.\nTrae una pieza de mano delgada que supera las 35.000 rpm, con marcha y reversa (manicuria rusa), moderna, pequeña y de un peso liviano.\nOtorga al profesional mucha precisión y una jornada cómoda por su peso y bajo ruido.\nPosee apertura de la pinza con medio giro del cuerpo azul.\nSe utilizan fresas y piedras de tamaños medianos, pequeños.\nUtilizado en manicuría, técnicas de uñas esculpidas, etc.",
+        "image": "/imagenes/podologia/Drillco-micromotor-m1-500-300x300.jpg"
+    },
+    {   
+        "id":3,
+        "title": "Micromotor Drillco M1 PODO",
+        "description": "Diseñado específicamente para las necesidades del profesional de podología.\nPieza de mano de gran torque, con 30.000 RPM, ideal para fresas, piedras, discos, enucleadoras.\nIncluye pedal para variar velocidad.\nPosee doble comando de variación, tanto de la consola como desde el pedal.\nPosibilidad de elegir pieza de mano de apertura tipo botón, o llave mandril.",
+        "image": "/imagenes/podologia/Drillco-micromotor-m1-podo-500-300x300.jpg"
+    },
+    {   
+        "id":4,
+        "title": "Micromotor Drillco M2 Advance",
+        "description": "Modelo profesional para podología, el cual incorpora un circuito en su placa electrónica que permite doble comando de velocidad, tanto de la consola como del pedal de velocidad variable.\nPieza de mano de 35.000 rpm y un gran torque, selección de ambos sentidos de giro (marcha y contramarcha).\nUtilizado en podología, manicuría rusa, dermo abración.",
+        "image": "/imagenes/podologia/Drillco-micromotor-m2-advance-500-300x300.jpg"
+    },
+    {   
+        "id":5,
+        "title": "Micromotor Drillco M4 Doctor",
+        "description": "La serie M4 es la mas potente dentro de la línea micromotores.\nEl modelo DOCTOR viene equipado con una pieza de mano de 45.000 rpm y un gran torque.\nPosee electrónica con microprocesador digital que detecta el esfuerzo y entrega mayor energía al motor aumentando su torque y evita que la herramienta pueda ser frenada.\nUtilizado en podologia, odontología, especilidades y medicina.",
+        "image": "/imagenes/podologia/Drillco-micromotor-m4-doctor-500-300x300.jpg"
+    },
+    {   
+        "id":6,
+        "title": "Micromotor Drillco M4 Surgery",
+        "description": "El modelo M4 SURGERY es un equipo pensado para pequeñas cirugías.\nProfesionales como otorrinos, podólogos que operan sobre huesos y técnicas de implantes capilares.\nTrae una pieza de mano de 45.000 con pinza o la opción de la pieza de mano INTRA.\nEsta ultima permite utilizar punteras rectas que pueden ser esterilizadas en autoclave, las mismas son opcionales.\nLa familia M4 viene con compensación electrónica de fuerza lo que hace que este equipo tenga un torque extraordinario.\nEl modelo SURGERY es el mas potente de la línea, especialmente en baja.\nEs un equipo utilizado en especialidades y medicina.",
+        "image": "/imagenes/podologia/Drillco-micromotor-m4-surgery-500-300x300.jpg"
+    },
+    {   
+        "id":7,
+        "title": "Sillón Podológico Drillco Arrecife",
+        "description": "Estructura construida en perfiles de acero con tratamiento anticorrosivo en poliuretano de alto impacto.\nBase con diseño ergonómico, construida en acero con tratamiento anticorrosivo.\nNo precisa ser fijada al piso.\nNuevo modelo de carenado compacto.\nAsiento con una altura mínima de 420 mm y máxima de 820 mm.\nTapizado sin costura, con base de polímero rígido recubierto con espuma de alta densidad y revestido con tapiz laminado Heavy Duty.\nCabezal con doble articulación, regula la altura y ángulo del mismo. Logra una perfecta regulación cervical para confort del paciente.\nPiecera con doble articulación, regula la altura y ángulo del mismo.\nSistema de elevación por motoreductor de alto rendimiento (8000 Newton / 24 Volts) Triple Motorización.\nApoya brazo fijo lado izquierdo. Activación remota, subida y descenso del asiento, respaldo y piecera.",
+        "image": "/imagenes/podologia/Drillco-sillon-arrecife-370-300x300.jpg"
+    },
+    {   
+        "id":8,
+        "title": "Sillón podológico Drillco Arrecife Pro",
+        "description": "Incorpora una torre en la que va montada la luz podológica con lupa y un brazo con platina.\nEl movimiento articulado de la torre permite posicionar la luz en cualquier parte del cuerpo del paciente.\nEl brazo posee un diseño moderno y estético, con movimiento de rotación hacia afuera en caso de querer abordar al paciente de costado.\nPosee una bandeja tipo platina con rotación sobre su mismo eje y dos posiciones de altura.\nBrinda comodidad total al profesional y al paciente.\nLa torre puede ser montada tanto del lado izquierdo o derecho del equipo.",
+        "image": "/imagenes/podologia/Drillco-sillon-arrecife-pro-500-300x300.jpg"
+    },
+    {   
+        "id":9,
+        "title": "Sillón podológico Drillco Beauty",
+        "description": "Construido en perfiles de acero con tratamiento anticorrosivo en poliuretano de alto impacto.\nDiseño ergonométrico no precisa ser amurado al piso.\nTapizado con base de polímero rígido recubierto con espuma de alta densidad y revestido con tapiz laminado Heavy Duty.\nTapicería sin costura por higiene, sanidad y limpieza.\nSistema de regulación de altura de por motoreductor eléctrico de alto rendimiento.\nPiecera y respaldo manual con cuatro posiciones de regulación permite dejar al paciente en una posición casi horizontal.\nSeguridad eléctrica, si bien el equipo se conecta a 220v, la motorización y el entorno de trabajo es 24v.",
+        "image": "/imagenes/podologia/drillco_sillon_beauty-500-300x300.jpg"
+    },
+    {   
+        "id":10,
+        "title": "Sillón podológico Drillco Coral",
+        "description": "Construido en perfiles de acero con tratamiento anticorrosivo en poliuretano de alto impacto.\nDiseño ergonométrico no precisa ser amurado al piso gran confort para el paciente y el profesional.\nTapizado con base de polímero rígido recubierto con espuma de alta densidad y revestido con tapiz laminado Heavy Duty, toda la tapicería es sin costura por higiene, sanidad y limpieza.\nSistema de regulación de altura de por motoreductor eléctrico de alto rendimiento.\nPiecera y respaldo manual con tres posiciones de regulación.\nSeguridad eléctrica, si bien el equipo se conecta a 220 v la motorización y el entorno de trabajo es 24 v.",
+        "image": "/imagenes/podologia/drillco_sillon_coral_500-300x300.jpg"
+    },
+    {   
+        "id":11,
+        "title": "Torno Colgante Drillco Serie 300",
+        "description": "Moderno diseño.\nInyectado en poliamida 6 con carga de vidrio.\nDoble aislación eléctrica total.\nEsmaltada y horneada.\nModelo DK300. Potencia: 135W. Velocidad:18.000 rpm.\nPara severas condiciones de trabajo. Porta carbones externos.\nParada automática por desgaste de carbones.\nRotor balanceado electrónicamente, montado sobre rodamientos suspendidos sobre cuna de goma acrilonitrilo (absorbe ruidos y vibraciones).\nReóstato electrónico velocidad variable.",
+        "image": "/imagenes/podologia/Drillco-Torno-Colgante-Serie-300-500-300x300.jpg"
+    },
+    {   
+        "id":12,
+        "title": "Torno Drillco Microdrill",
+        "description": "Equipo versátil y compacto, de gran velocidad y potencia de desgaste, está pensado como un equipo que sirva tanto para uso en consultorio como para domicilios.\nMuy liviano con bolso para transportarlo.\nPosee un amplio rango de velocidad de 0 a 35.000 rpm y un muy buen torque, para utilizar con fresas, piedras y enucleadores de 2.3 mmm.\nPara profesionales de podología, manicuría y uñas.",
+        "image": "/imagenes/podologia/drillco-micro-drill-500-300x300.jpg"
+    },
+    {   
+        "id":13,
+        "title": "Podo Clamp Drillco",
+        "description": "Heramienta rotativa.\nContiene el Vástago más 5 repuestos Husillo porta moneda abrasiva.\nSistema de acople rápido con centrado automático perfecto.\n5 monedas abrasivas por avio.",
+        "image": "/imagenes/podologia/drillco-podo-clamp-500-300x300.jpg"
+    },
+    {   
+        "id":14,
+        "title": "Torre rodante Drillco profesional",
+        "description": "Pie rodante con bandeja móvil y lupa 3,5 dioptrias con luces led.\nIdeal para uso en consultorios, gabinetes de estetica y podología.\nConstruido en acero redondo de alta calidad con cataforesis, pintura poliuretánica resisitentes a impactos, ruedas de silicona, bandeja metalica con giro de 45 grados con bandejas plásticas removibles.\nEstándar con luz lupa, opcional con cialítica de 6 luces led o foco monoled, ambos sin lupa.",
+        "image": "/imagenes/podologia/drillco-Pie-rodante-500-300x300.jpg"
+    },
+    {   
+        "id":15,
+        "title": "Banqueta rodante Drillco Maury",
+        "description": "El modelo Maury es una banqueta de trabajo ideal para cosmetología, uñas esculpi­das o podología por su practicidad calidad y conveniencia en costo.\nDestaca su calidad de tapicería y pintura poliuretánica.\nPosee dos bandejas cajón para acomodar los implementos de trabajo, una bandeja de trabajo de giro 360º regulable en altura, adicionalmente, viene equipada con su correspondientes ruedas de desplazamiento para mejor trabajo del profesional y puede ser utilizada como carrito complementario del consultorio.",
+        "image": "/imagenes/podologia/banqueta-maury-drillco-500-300x300.jpg"
+    },
+    {   
+        "id":16,
+        "title": "Bandeja podológica Drillco",
+        "description": "Bandeja podológica para residuos y tratamientos líquidos.",
+        "image": "/imagenes/podologia/bandeja-drillco-podo-500-300x300.jpg"
+    }
+]

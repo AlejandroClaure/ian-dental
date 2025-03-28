@@ -1,0 +1,22 @@
+[
+    {   "id":1,
+        "title": "Ducha bucal Aquapick",
+        "description": "Floss en sólo 70 segundos con el flosser de agua Premium de Aquapick.\n1800 pulsaciones por minuto. Rápido, fácil y apacible.\nSistema de apagado automático.\n21 niveles de presión regulable.\nInnovador sistema de bombeo, de larga duración.",
+        "image": "/imagenes/ducha-Bucal/ducha-bucal-aquapick-300x300.png"
+    },
+    {   "id":2,
+        "title": "Ducha bucal Waterpik",
+        "description": "1200 chorros de agua por minuto de potencia regulable.\nPuede ser utilizado con agua o enjuague bucal.",
+        "image": "/imagenes/ducha-Bucal/ducha-bucal-waterpik-300x300.png"
+    },
+    {   "id":3,
+        "title": "Ducha bucal Waterpik-9_opt",
+        "description": "Rango de Presión: 45 a 75 psi. Flujo por minuto: 300 ml.\nPulsos por minuto: 1450. Niveles de Presiones: 2.\nCantidad de Boquillas: 4. Rotación de las boquillas: 360°.\nCapacidad del reservorio: 210 ml. Capacidad en segundos: 45",
+        "image": "/imagenes/ducha-Bucal/ducha-bucal-waterpik-9_opt-300x300.png"
+    },
+    {   "id":4,
+        "title": "Ducha bucal Waterpik inalámbrica",
+        "description": "Presión máxima 75 psi. Capacidad de agua 450 ml.\nCantidad de boquillas 3.\nCantidad de niveles de presión 2.\nRecargable. Inalámbrico.",
+        "image": "/imagenes/ducha-Bucal/ducha-bucal-waterpik-inalambrica-1-300x300.png"
+    }
+]

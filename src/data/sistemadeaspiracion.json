@@ -1,0 +1,37 @@
+[
+    {   "id":1,
+        "title": "E-Suction Egeo",
+        "description": "Liviano, robusto, elegante y de aspiración muy potente.\nBajo consumo de energía (aprox. 75W)\nGabinete totalmente metálico pintado con sistema epoxi y base rodante (equipo móvil).\nInstalación eléctrica realizada bajo normas de seguridad, con cables de silicona de sección 0.75mm con conexión a tierra y fusible de protección.\nColgador automático que detiene el motor en el momento de colocar la boquilla en el mismo, y arranca al retirarla.\nBoquillas compatibles con las distintas cánulas existentes en el mercado.\nSalida de líquidos desechables a una altura apropiada como para poder desagotar en un recipiente auxiliar si no se dispone de una red de desagüe apropiada.",
+        "image": "/imagenes/sistemadeaspiracion/E-Suction-Egeo_500-300x300.jpg"
+    },
+    {   "id":2,
+        "title": "Hemosuctor de potencia Egeo",
+        "description": "Equipo autónomo de gran potencia de aspiración.\nMuy silencioso y de mínimo mantenimiento.\nEs movible y posee la opción de seleccionar la adecuada potencia de succión para cada tratamiento.\nNo consume aire comprimido ni agua corriente.\nSu filtro para sólidos y su trampa para espuma aseguran un prolongado uso y un mínimo mantenimiento.\nEl equipo cuenta con drenaje manual o automático de acuerdo a las necesidades del profesional.\nAlcanza una potencia de 720 W, consumiendo 2.50 A.",
+        "image": "/imagenes/sistemadeaspiracion/Hemosuctor-Egeo_500-300x300.jpg"
+    },
+    {   "id":3,
+        "title": "Bomba de succión DMega Teravac 3000",
+        "description": "Bomba de vacío indicada para suministrar la aspiración a 1 o 3 sillones dentales.\nMotor de aspiración silencioso, nivel de ruido no supera los 59 decibeles.",
+        "image": "/imagenes/sistemadeaspiracion/bomba-succion-dmega-teravac3000.png"
+    },
+    {   "id":4,
+        "title": "Bomba de succión DMega Teravac S101",
+        "description": "Sistema semi-húmedo de aspiración para una unidad dental. Tamaño compacto para hacer un mejor uso del espacio de las salas de tratamiento.\n Con una unidad de separación de aire / líquido, la S101 separa las partículas líquidas y sólidas. Cuenta con sistema de válvula de purga automática que descarga los residuos de líquido y sangre de forma automática después de detener el motor. Esto evita problemas de obstrucción.",
+        "image": "/imagenes/sistemadeaspiracion/bomba-succion-dmega-teravacS101-300x300.png"
+    },
+    {   "id":5,
+        "title": "Bomba de succión Dürr Tyscor VS2",
+        "description": "Aspiración en húmedo con compresor radial 100% de fiabilidad.\nMás del 50% menos de peso, 35% más eficaz y hasta un 50% de ahorro de energía.\nPotente motor de aspiración radial y un regulador de separación independiente.\nSistema electrónico permite el mando y el control mediante el software Tyscor Pulse.",
+        "image": "/imagenes/sistemadeaspiracion/bomba-vacio-DURR-Tyscor-VS2-300x252.png"
+    },
+    {   "id":6,
+        "title": "Bomba de succión Dürr VS 300S",
+        "description": "Aspiración húmeda centralizada y separador automático en un motor.\n2 sistemas separadores en dos etapas con un separador ciclón y una turbina de separación para el arrastre de espuma y el líquido en el área de turbina.\nAhorro del espacio debido al diseño compacto dos en uno.\nTobera de ventilación integrada que asegura una máxima capacidad de aspiración constante.",
+        "image": "/imagenes/sistemadeaspiracion/bomba-vacio-VS300S-DURR-300x300.jpg"
+    },
+    {   "id":7,
+        "title": "Bomba de vacío Atec",
+        "description": "Estructura simple, realizada en pocas piezas.\nTecnología de separación de agua y aire.\nNecesita un reducido espacio para su instalación.\nGran poder de succión ahorrando energía.\nNivel de ruído: 59 dB.\nFrecuencia alterna.\nFrecuencia: 110-240V50/60Hz.\n\nModelos: DS3701CS (C2) – DS3701CS (C3) – DS3701CS (C4)\nPotencia: 550 w  –  940 w  –  1100 w.\nVacío: (-14 Kpa)  –  (-17 Kpa) –  (-17 Kpa)\nFlujo de agua (L/min): 28  –  46.5  –  65\nFlujo de Aire (L/min): 780  –  1100  –  1450\nNº de equipamientos: 1 – 2  /  2 – 3  /  3 – 4",
+        "image": "/imagenes/sistemadeaspiracion/ATtec-Bomba-de-vacio_500x500-300x300.jpg"
+    }
+]

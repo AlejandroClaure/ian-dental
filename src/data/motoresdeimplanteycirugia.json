@@ -1,0 +1,52 @@
+[
+    {   "id":1,
+        "title": "Aeropulidor Acteon",
+        "description": "Pieza de mano adaptable para tratamientos SUPRA y SUB-gingivales.\n4 boquillas AIR-N-GO para la eliminación perfecta de bacterias patógenas.\nGama completa de polvos para proporcionar soluciones personalizadas para todas las necesidades clínicas.\nTratamientos suaves y eficientes para una mejor comodidad del paciente.",
+        "image": "/imagenes/motoresDeimplanteYCirugia/Acteon-aeropulidor-Air-N-Go-Easy-500-300x300.jpg"
+    },
+    {   "id":2,
+        "title": "Generador Piezoeléctrico Acteon Piezotome Cube",
+        "description": "Potencia ajustada para máxima seguridad y eficiencia.\nGenerador piezoeléctrico con LUZ LED de gran potencia para cirugía implantaria.\nPantalla táctil y orientada al usuario para el acceso directo a los principales parámetros de configuración. Unidad compacta.\nAsepsia perfecta.",
+        "image": "/imagenes/motoresDeimplanteYCirugia/Acteon-Piezotome-Cube-500-300x300.jpg"
+    },
+    {   "id":3,
+        "title": "Lámpara de polimerización Acteon Mini Led Active",
+        "description": "Diseñada para ser estable una vez colocada de nuevo en la superficie de trabajo.\nEmite a plena potencia durante 10 segundos con flash indicador luminoso después de 5 segundos de tratamiento.\nBateria ligera integrada.\nIndicador luminosos de nivel de batería.\nFuente de alimentación universal desconectable.\nPotencia: 1,492 mW/cm².",
+        "image": "/imagenes/motoresDeimplanteYCirugia/lampara-polimerizacion-Acteon-MINI-LED-ACTIVE-500-300x300.jpg"
+    },
+    {   "id":4,
+        "title": "Lámpara de polimerización Acteon Mini Led Ortho 2",
+        "description": "Diseñada para ortodoncia.\nCiclos de polimerización de 4, 8, 12 y 32 segundos.\nPolimeriza cualquier bracket o una semiarcada con una simple presión sobre el botón.\nSin UV. Poco calor para una máxima seguridad y comodidad.\nIndica al usuario que cambie a la siguiente posición de polimerización cada 4 segundos con un aviso sonoro, un micro-flash, una mezcla de ambos o sin alerta.\nBateria eficaz, tratamiento de más de 15 pacientes sin recargar.\nLa base cargadora incluye un radiómetro incorporado.\nLa intensidad de la luz Led se puede controlar en cualquier momento mediante la completa iluminación del soporte translúcido de la pieza de mano.",
+        "image": "/imagenes/motoresDeimplanteYCirugia/lampara-polimerizacion-Acteon-MINI-LED-ORTHO-2-500-300x300.jpg"
+    },
+    {   "id":5,
+        "title": "Lámpara de polimerización Acteon Mini Led Standard",
+        "description": "Rápida. Sólo de 6 a 12 segunfos para polimerizar 2 mm de cualquier composite.\nPolimerización con fácil acceso con profundidad regulada.\nElevación de la temperatura ofreciendo una polimerización segura para los dientes.\nEmite 20 segundos. Limita la retracción de los composites en modo lento.\nBase cargador incluyendo un radiómetro incorporado para el control de la intensidad de la potencia de luz.",
+        "image": "/imagenes/motoresDeimplanteYCirugia/lampara-polimerizacion-Acteon-MINI-LED-STANDARD-500-300x300.jpg"
+    },
+    {   "id":6,
+        "title": "Lámpara de polimerización Acteon Mini Led Supercharged",
+        "description": "Alianza de potencia y seguridad.\nPolimerización con fácil acceso con profundidad regulada.\nEmite destellos cada segundo a plena potencia.\nElevación de la temperatura ofreciendo una polimerización segura para los dientes.\nLimitación de la retracción de los composites en modo lento.\nLa base cargador incluye un radiómetro incorporado.\nLa intensidad de la luz Led se puede controlar en cualquier momento mediante la completa iluminación del soporte translúcido de la pieza de mano.\nVisibilidad de modo, tiempo e indicador de carga de batería.",
+        "image": "/imagenes/motoresDeimplanteYCirugia/lampara-polimerizacion-Acteon-MINI-LED-Supercharged-500-300x300.jpg"
+    },
+    {   "id":7,
+        "title": "Unidad para cirugía Acteon Implant Center 2",
+        "description": "Unidad quirúrgica piezoeléctrica, micromotor de implantología y ultrasonidos.\nEs una combinación entre Piezotome y Micromotor I-Surge.\nMotor de Led I-Surge altamente fiable con un torque máximo (6 Ncm) y un amplio rango de velocidades (100-40.000 rpm).\nPiezotome pieza de mano Led con 6 anillos de cerámica para cirugías más rápidas y seguras.\n3 modos de funcionamiento:\n– I-Surge para cirugías implantarias.\n– Piezotome para cirugía ósea ultrasónica de preimplantación.\n– Newtron para todos los tratamientos dentales de ultrasonidos.\nAjuste automático de la frecuencia para un rendimiento máximo de cada inserto.\nRegulación de la potencia en tiempo real para actuaciones constantes y corte sin esfuerzo.\nPedal de encendido/apagado multifuncional.\nDispone de líneas de irrigación de un sólo uso o esterilizables.\nFlujo de irrigación regular gracias al sistema específico de la bomba/depósito.",
+        "image": "/imagenes/motoresDeimplanteYCirugia/Acteon-IMPLANT-CENTER-2-500-300x300.jpg"
+    },
+    {   "id":8,
+        "title": "Cavitador Piezoelectrico Woodpecker US-II Surgic Touch",
+        "description": "Tercera generación de Piezo Bone Surgery Woodpecker.\nDisplay a prueba de agua y resistente.\nPantalla LED de 7 pulgadas.\nPieza de mano esterilizable.\nSistema de irrigación por bomba peristáltica silenciosa fácil de conectar.\nIncluye el set de 14 puntas para realizar diversas prácticas.\n2 piezas de mano con luz led y cassette individual de esterilización.\n“Micron Cutting“ corte micrón.\nLa amplitud de vibración de la punta oscila 20-100 uM.\nLa incisión quirúrgica mínima es de 3.5 mm de largo, 0.5 mm de ancho, lo que ayudará a un área quirúrgica pequeña y una rápida recuperación postoperatoria.\nCorte selectivo sin dañar el tejido blando.\nModo de corte en frío.",
+        "image": "/imagenes/motoresDeimplanteYCirugia/Cavitador-Piezo-electrico-woodpecker-usII-surgic-touch_500-300x300.png"
+    },
+    {   "id":9,
+        "title": "Motor para cirugias Woodpecker Implanter",
+        "description": "Motor sin carbones (Brushless), autoclavable, de calidad Suiza y ultra-silencioso.\nSistema de irrigación por bomba peristáltica, silenciosa Y fácil de conectar.\nPantalla táctil LCD con interfaz clara y simple.\nEquipado con un pedal multifunción que permite controlar fácilmente el flujo de agua, la rotación, el torque y la velocidad.\nMotor silencioso, estable y preciso.\nContra ángulo con luz LED de acero inoxidable de alta calidad, permite un torque estable tanto en baja como en alta velocidad.\nTecnología única de tratamiento térmico y rodamientos alemanes forman un C.A. con un torque máximo de 80 Ncm.",
+        "image": "/imagenes/motoresDeimplanteYCirugia/Motor-cirugia-woodpecker-implanter-led_500-300x300.png"
+    },
+    {   "id":10,
+        "title": "Electrobisturi Art Electron",
+        "description": "Electrobisturí.\nCorte estable y fino.\nGran seguridad y precisión de corte.\n7 programas fijos.\n3 modos de trabajo: Coagulación, Corte, Corte-Coagulación.\n10 niveles de potencia.\nPotencia ajustable.\nFrecuencia 1,35 khz – 1,7 khz\nPotencia: 10w.\nCarga: 500\nElectrodos autoclavables.\nCertificado ISO, Certificado CD y FDA 510K.\nDimensiones: 8,4x20x21,5 cm.\nPieza de mano longitud del cable: 190 cm.\nApto para uso dermatológico y veterinario.",
+        "image": "/imagenes/motoresDeimplanteYCirugia/Art-Electron-electrobisturi_500-300x300.jpg"
+    } 
+]

@@ -1,0 +1,42 @@
+[
+    {   "id":1,
+        "title": "Lámpara Ultradent Valo inalambrica",
+        "description": "Inalámbrica. Alta potencia en tres modos: ESTÁNDAR – ALTA POTENCIA – POTENCIA EXTRA.\nPerfecta colimación del haz de luz para una polimerización homogénea y de calidad.",
+        "image": "/imagenes/lamparas/lampara-ultradent-valo-inalambrica-300x300.jpg"
+    },
+    {   "id":2,
+        "title": "Lámpara Ultradent Valo Led con cable",
+        "description": "Lámpara de Fotopolimerización LED. LEDs de amplio espectro y energía ultra potente.\nPolimerizan todos los materiales dentales. Haz de colimación óptima, proporciona una polimerización completa y uniforme.\nTres modos de polimerización – estándar, alta potencia y potencia extra.",
+        "image": "/imagenes/lamparas/lampara-ultradent-valo-led-cable-300x300.png"
+    },
+    {   "id":3,
+        "title": "Lampara Woodpecker DTE LUX VI",
+        "description": "Inalámbrica. Alta potencia, 1200 mw/Cm. Con la bateria completamente cargada, permite hasta 300 usos. Intensidad de luz constante, no es afectada por el nivel de carga de la bateria.",
+        "image": "/imagenes/lamparas/lampara-woodpecker-dte-lux-vi-300x300.jpg"
+    },
+    {   "id":4,
+        "title": "Lámpara Woodpecker Led B",
+        "description": "Inalámbrica. Liviana, pequeña y fácil de manejar. Pantalla naranja de protección.\nPosee batería de litio recargable, duradera e independiente durante muchos tratamientos.",
+        "image": "/imagenes/lamparas/lampara-woodpecker-led-b_500x500-300x300.jpg"
+    },
+    {   "id":5,
+        "title": "Lampara Woodpecker Led C",
+        "description": "Inalámbrica.\nLa batería se puede reemplazar.\nTres modos de funcionamiento: full, lamping, y pulse.\nTiempos: 5,10,15 y 20 segundos.\nBatería de alta capacidad.",
+        "image": "/imagenes/lamparas/lampara-woodpecker-led-c-300x300.jpg"
+    },
+    {   "id":6,
+        "title": "Lampara Woodpecker Led F",
+        "description": "Lámpara inalámbrica de fotocurado silenciosa y ligera (143 gr), fácil de manejar.\nDisplay LCD a color. Pantalla OLED para poder conseguir una visibilidad desde todos los ángulos.\nContiene un ventilador interno para evitar el calor. Batería de litio recargable de 2000 mAR.\nEficaz transformación de la electricidad en luz. La lámpara se puede utilizar más de 250 veces en cada carga.",
+        "image": "/imagenes/lamparas/lampara-woodpecker-led-F_opt-300x300.png"
+    },
+    {   "id":7,
+        "title": "Lampara Woodpecker Led G",
+        "description": "Adopta el principio de radiación para solidificar la resina sensible a la luz por disparos en un corto tiempo.\nPotencia: 1000 – 1200 mW/cm2.\nProgramación de tiempo en ciclos de 10 segundos.\nLongitud de onda 385 – 515 nm\nTres modos de trabajo: Rampa – Intermitente – Constante.\nSin radiómetro.",
+        "image": "/imagenes/lamparas/lampara-woodpecker-led-g_-300x300.png"
+    },
+    {   "id":8,
+        "title": "Lampara Woodpecker Led K",
+        "description": "Inalámbrica.\nFotocurado en 1 segundo, 2mm de recina.\nBatería de litio de 3.7V/1400 mAh.\nUltraligera, peso 278gr.\nPotencia uniforme de hasta 2500 mw/cm2.\nLarga capacidad de la batería.\nModo normal: 1000/1200 mw/cm2\nModo turbo: 2300/2500 mw/cm2\nCabezal rotativa -360º.\nPotencia constante.\nMango ergonómico.",
+        "image": "/imagenes/lamparas/lampara-woodpecker-led-k-300x300.jpg"
+    }
+]

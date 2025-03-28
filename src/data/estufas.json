@@ -1,0 +1,47 @@
+[
+    {   "id":1,
+        "title": "Esterilizadora a bolilla Egeo 40",
+        "description": "Esterilizadora a bolilla de cuarzo con recipiente de acero inoxidable.\nEl Esterilizador a bolilla de cuarzo EGEO ha sido concebido para efectuar la correcta esterilización de pequeños instrumentos utilizados para las áreas de Podología, Manicuría, Tatuaje y Peluquería.\nAlcanza una potencia de 100 W, consumiendo 0.40 A.\nAltura: 143 mm\nLargo: 98 mm\nProfundidad: 150 mm\nVaso: 65 x 77 mm",
+        "image": "/imagenes/esterilizacion/estufas/Estufa-Egeo-40_500-300x300.jpg"
+    },
+    {   "id":2,
+        "title": "Esterilizadora a bolilla Egeo 50",
+        "description": "Esterilizadora a bolilla de cuarzo con recipiente de acero inoxidable.\nEl Esterilizador a bolilla de cuarzo EGEO ha sido concebido para efectuar la correcta esterilización de pequeños instrumentos utilizados para las áreas de Podología, Manicuría, Tatuaje y Peluquería.\nAlcanza una potencia de 100 W, consumiendo 0.40 A.\nAltura: 162 mm\nLargo: 115 mm\nProfundidad: 160 mm\nVaso: 70 x 89 mm",
+        "image": "/imagenes/esterilizacion/estufas/Estufa-Egeo-50_500.jpg"
+    },
+    {   "id":3,
+        "title": "Esterilizadora a bolilla Egeo Mini",
+        "description": "Esterilizadora a bolilla de cuarzo con recipiente de acero inoxidable.\nEl Esterilizador a bolilla de cuarzo EGEO ha sido concebido para efectuar la correcta esterilización de pequeños instrumentos utilizados para las áreas de Podología, Manicuría, Tatuaje y Peluquería.\nAlcanza una potencia de 100 W, consumiendo 0.40 A.\nAltura: 110 mm\nLargo: 200 mm\nProfundidad: 140 mm\nPeso: 1 kg",
+        "image": "/imagenes/esterilizacion/estufas/Estufa-Egeo-Mini_500-300x300.jpg"
+    },
+    {   "id":4,
+        "title": "Esterilizadora a bolilla Egeo Mini de Acero Inoxidable",
+        "description": "Esterilizadora a bolilla de cuarzo con recipiente de acero inoxidable.\nEl Esterilizador a bolilla de cuarzo EGEO ha sido concebido para efectuar la correcta esterilización de pequeños instrumentos utilizados para las áreas de Podología, Manicuría, Tatuaje y Peluquería.\nAlcanza una potencia de 100 W, consumiendo 0.40 A.\nAltura: 110 mm\nLargo: 200 mm\nProfundidad: 140 mm\nPeso: 1 kg",
+        "image": "/imagenes/esterilizacion/estufas/Estufa-Egeo-Mini-Acero-Inox_500-300x300.jpg"
+    },
+    {   "id":5,
+        "title": "Estufa Egeo 9E",
+        "description": "Posee el exterior pintado en blanco y el interior de acero inoxidable.\nMantiene sólo una temperatura de 175º.\nSistema de esterilización sencillo y efectivo.\nSus dos amplias bandejas perforadas de acero inoxidable permiten acomodar gran cantidad de instrumental, no oxida a los mismos ni afecta puntas ni filos.\nApertura frontal y una delicada terminación hecha completamente en acero inoxidable.\nAlcanza una potencia de 350 W, consumiendo 1.6 A.",
+        "image": "/imagenes/esterilizacion/estufas/Estufa-Mini-9E-500-300x300.png"
+    },
+    {   "id":6,
+        "title": "Estufa AGS K-Steril",
+        "description": "Gabinete exterior e interior de acero inoxidable.\nPuerta con burlete y cierre mecánico, que evita la pérdida de calor optimizando el rendimiento de la esterilizadora.\nControl micro procesado con 4 programas pre establecidos.\nPosibilidad de operación manual del tiempo y temperatura.\nSeñal lumínica y sonora de fin de programa.\nDos modelos, uno con tres bandejas perforadas y otro con cuatro bandejas perforadas.",
+        "image": "/imagenes/esterilizacion/estufas/AGS-estufa-500x500-1-300x300.png"
+    },
+    {   "id":7,
+        "title": "Estufa Egeo 18E",
+        "description": "Posee el exterior pintado en blanco y el interior en acero inoxidable.\nCapacidad 18 litros. Potencia de 400 W.\nSistema de esterilización sencillo y efectivo.\nTres amplias bandejas perforadas de acero inoxidable permite acomodar gran cantidad de instrumental, no oxida a los mismos ni afecta puntas ni filos.\nApertura lateral y una delicada terminación hecha completamente en acero inoxidable.",
+        "image": "/imagenes/esterilizacion/estufas/estufa-egeo-18-E-300x300.png"
+    },
+    {   "id":8,
+        "title": "Estufa Egeo 18L",
+        "description": "Posee el exterior pintado en blanco y el interior en acero inoxidable.\nCapacidad 18 litros. Cuatro programas preeestablecidos y un programa manual.\nSistema de esterilización sencillo y efectivo. Potencia de 400 W.\nCuatro amplias bandejas perforadas de acero inoxidable permiten acomodar gran cantidad de instrumental, no oxida a los mismos ni afecta puntas ni filos.\nApertura lateral y una delicada terminación hecha completamente en acero inoxidable.",
+        "image": "/imagenes/esterilizacion/estufas/estufa-egeo-18-l-300x300.jpg"
+    },
+    {   "id":9,
+        "title": "Estufa Egeo 26L",
+        "description": "Totalmente de acero inoxidable, electrónica, con cuatro programas preeestablecidos y un programa manual.\nCapacidad 26 litros. Potencia de 600 W.\nSistema de esterilización sencillo y efectivo.\nPosee controles digitales comandados por un microprocesador y dispone de varios programas preestablecidos.\nCuatro amplias bandejas perforadas de acero inoxidable permite acomodar gran cantidad de instrumental, no oxida a los mismos ni afecta puntas ni filos.\nApertura lateral y una delicada terminación hecha completamente en acero inoxidable.",
+        "image": "/imagenes/esterilizacion/estufas/estufa-egeo-26-L.png"
+    }
+]

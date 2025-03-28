@@ -1,0 +1,133 @@
+[
+    {   "id":1,
+        "title": "Equipo Rx Nardi & Herrero Pedestal/Mural",
+        "description": "Crea imágenes con una excelente resolución y un contraste elevado.\nSimplicidad de manejo.\nDiseño gráfico de la membrana digital es intuitivo.\nTiempo de exposición automático.\nLas funciones marcadas están indicadas con Led y quedan en la memoria para el próximo disparo.\nAlimentación: 220-240 V\nFrecuencia nominal: 50-60 Hz\nConsumo: 5,5 A\nPotencia: 70 kV – 8 mA\nDistancia focal: 200 mm.\nDiámetro focal: 60 mm.\nRadiación de fuga a 1 mm.: <0,5 mR/h\nPunto focal: 0.8 mm\nFiltración total: 2 mmAl",
+        "image": "/imagenes/radiologia/Nardi-Herrero-Rx-SuperX-pedestal_500-300x300.jpg"
+    },
+    {   "id":2,
+        "title": "Equipo Rx Nardi & Herrero Rodante",
+        "description": "Crea imágenes con una excelente resolución y un contraste elevado.\nSimplicidad de manejo.\nDiseño gráfico de la membrana digital es intuitivo.\nTiempo de exposición automático.\nLas funciones marcadas están indicadas con Led y quedan en la memoria para el próximo disparo.\nAlimentación: 220-240 V\nFrecuencia nominal: 50-60 Hz\nConsumo: 5,5 A\nPotencia: 70 kV – 8 mA\nDistancia focal: 200 mm.\nDiámetro focal: 60 mm.\nRadiación de fuga a 1 mm.: <0,5 mR/h\nPunto focal: 0.8 mm\nFiltración total: 2 mmAl",
+        "image": "/imagenes/radiologia/Nardi-Herrero-Rx-SuperX-rodante_500-300x300.jpg"
+    },
+    {   "id":3,
+        "title": "Equipo Rx AGS Imax MV-P",
+        "description": "Equipo portátil concebido para principalmente para el uso en domicilios.\nSu reducido tamaño y peso hacen fácil su operación.\nEl control digital del equipo IMAX MV-P le permite seleccionar tiempos de exposición desde 0.04 seg hasta 2.99 seg con tres opciones de disparo, directa,\ncon retardo o mediante control a distancia.\nBrinda la posibilidad de seleccionar el Kv a utilizar.\nPosee un colimador ajustable en tamaño que al ser retroiluminado y poseer lasers de centrado permite obtener un óptimo posicionamiento del campo a irradiar.",
+        "image": "/imagenes/radiologia/Rx-AGS-imax-mv-p_500-300x300.png"
+    },
+    {   "id":4,
+        "title": "2D Acteon X-Mind Prime",
+        "description": "Ofrece un conjunto completo de exámenes panorámicos para odontología general: panorámica dental, articulaciones tempomandibulares y senos paranasales.\nFunciones avanzadas para una navegación intuitiva.\nPosicionamiento suave del paciente.\nPanel de control simple.\nSistema inteligente de montaje en la pared.\nFacil de instalar.",
+        "image": "/imagenes/radiologia/Acteon-X-MIND-PRIME-2D-500-300x300.jpg"
+    },
+    {   "id":5,
+        "title": "3D Acteon X-Mind Trium",
+        "description": "Evaluación de forma instantánea del volúmen y la densidad ósea.\nAmplia gama de campos de visión, permite centrarse en la región de interés en función del diagnóstico buscado y reducir la exposición del paciente a los rayos X.\nGran variedad de aplicaciones para centrarse en la zona de interés.\nResolución superiror de 75 µm y rotación de 360° para imágenes muy detalladas.\nCobertura de todas la aplicaciones clínicas con diagnóstico panorámico y cefalométrico.\nFiltro óptimo para la reducción de artefactos metálicos.\nSoftware avanzado con una navegación intuitiva.",
+        "image": "/imagenes/radiologia/Acteon-X-Mind-Trium-3D-500-300x300.jpg"
+    },
+    {   "id":6,
+        "title": "3D Acteon X-Mind Trium True Low Dose",
+        "description": "Reducción de dosis de radiación.\nMayor protección infantil con un movimiento lateral exclusivo.\nEvaluación instantánea del volumen y la densidad ósea.\nPropone una amplia gama de campos de visión.\nAplicaciones muy amplias para centrarse en la zona de interés.\nResolución superior de 75 µm y rotación de 360° para imágenes altamente definidas.\nCobertura de todas las aplicaciones clínicas con diagnóstico panorámico y cefalométrico.\nFiltro óptimo para la reducción de artefactos metálicos.\nFunciones avanzadas para una navegación intuitiva.",
+        "image": "/imagenes/radiologia/Acteon-x-Mind-Trium-True-Low-Dose-3D-500-300x300.jpg"
+    },
+    {   "id":7,
+        "title": "Escaner de Rx intraoral Acteon PSPIX",
+        "description": "Contraste referente para un diagnóstico mas fiable.\nMayor comodidad para usted y sus pacientes.\nEscaner personal de placas para fósforo.\nPSPIX es muy intuitivo, por lo que escanear una imagen es simple y rápido.\nFuncionalidad avanzada para una navegación intuitiva.\nUso simple e intuitivo.\nPlacas de fósforo delgadas y flexibles disponibles en 5 tamaños.\nOfrece mejor protección.",
+        "image": "/imagenes/radiologia/Acteon-escaner-rx-intraoral-PSPIX-500-300x300.jpg"
+    },
+    {   "id":8,
+        "title": "Rx intraoral Acteon X-Mind DC",
+        "description": "Fiabilidad del generador X-Mind DC.\nEquipo flexible y seguro.\nFácilmente posicionable y diferentes alternativas de instalación para su práctica.\nFuncionalidad avanzada para una navegación intuitiva.",
+        "image": "/imagenes/radiologia/Acteon-Rx-intraoral-X-Mind-DC-500-300x300.jpg"
+    },
+    {   "id":9,
+        "title": "Rx intraoral Acteon X-Mind Unity",
+        "description": "Imágen nítida y contrastada.\nHasta 52% menos de radiación con tecnología Ace.\nUso ergonómico y simple, diseñado a su imágen.\nTranquilidad para todos con una trazabilidad exclusiva.\nFuncionalidad avanzada para una navegación intuitiva.",
+        "image": "/imagenes/radiologia/Acteon-Rx-intraoral-X-MIND-UNITY-500-300x300.jpg"
+    },
+    {   "id":10,
+        "title": "Equipo Rx AGS Imax MV",
+        "description": "Equipo portátil concebido para el uso en veterinaria principalmente para pequeños animales y equinos.\nSu reducido tamaño y peso facilitan su transporte a domicilios.\nPosee un colimador ajustable en tamaño que al tener retroiluminación y lasers de centrado permite obtener un óptimo posicionamiento del campo a irradiar.\nEl control digital del equipo IMAX MV-P le permite seleccionar tiempos de exposición desde 0.04 seg hasta 2.99 seg con tres opciones de disparo, directa,\ncon retardo o mediante control a distancia.\nBrinda la posibilidad de seleccionar el Kv a utilizar.",
+        "image": "/imagenes/radiologia/Rx-AGS-imax-mv_500-300x300.png"
+    },
+    {   "id":11,
+        "title": "Equipo Rx AGS Imax 70 de pie",
+        "description": "Display digital 3 dígitos.\nSelección del tiempo de exposición mediante pulsadores secuenciales.\nPrecisión del tiempo de exposición +/- 1 digito.\nPre–calentamiento del filamento del tubo de Rayos-X controlado por un sistema digital.\nControl del generador de rayos-X con interruptor estático tipo ZVS para una precisión absoluta del tiempo de exposición. El interruptor estático permite la apertura y cierre del circuito sin interferencias RF.\nSeñal acústica y luminosa durante la emisión de Rayos-X.\nPulsador de emisión del tipo Hombre Muerto, bloqueo automático en caso de liberar el pulsador de emisión en forma anticipada a la finalización del tiempo programado.\nCircuito miniaturizado.",
+        "image": "/imagenes/radiologia/AGS-Rx-piso-imax70-500x500-1-300x300.png"
+    },
+    {   "id":12,
+        "title": "Equipo Rx AGS Imax 70 mural",
+        "description": "Display digital 3 dígitos.\nSelección del tiempo de exposición mediante pulsadores secuenciales.\nPrecisión del tiempo de exposición +/- 1 digito.\nPre–calentamiento del filamento del tubo de Rayos-X controlado por un sistema digital.\nControl del generador de rayos-X con interruptor estático tipo ZVS para una precisión absoluta del tiempo de exposición. El interruptor estático permite la apertura y cierre del circuito sin interferencias RF.\nSeñal acústica y luminosa durante la emisión de Rayos-X.\nPulsador de emisión del tipo Hombre Muerto, bloqueo automático en caso de liberar el pulsador de emisión en forma anticipada a la finalización del tiempo programado.\nCircuito miniaturizado.",
+        "image": "/imagenes/radiologia/AGS-Rx-mural-imax70-500x500-1-300x300.jpg"
+    },
+    {   "id":13,
+        "title": "Equipo Rx AGS Imax 70 mural tijera",
+        "description": "Display digital 3 dígitos.\nSelección del tiempo de exposición mediante pulsadores secuenciales.\nPrecisión del tiempo de exposición +/- 1 digito.\nPre–calentamiento del filamento del tubo de Rayos-X controlado por un sistema digital.\nControl del generador de rayos-X con interruptor estático tipo ZVS para una precisión absoluta del tiempo de exposición. El interruptor estático permite la apertura y cierre del circuito sin interferencias RF.\nSeñal acústica y luminosa durante la emisión de Rayos-X.\nPulsador de emisión del tipo Hombre Muerto, bloqueo automático en caso de liberar el pulsador de emisión en forma anticipada a la finalización del tiempo programado.\nCircuito miniaturizado.",
+        "image": "/imagenes/radiologia/AGS-Rx-mural-tijera-imax70-500x500-1-300x300.png"
+    },
+    {   "id":14,
+        "title": "Equipo Rx AGS Imax 70 rodante",
+        "description": "Display digital 3 dígitos.\nSelección del tiempo de exposición mediante pulsadores secuenciales.\nPrecisión del tiempo de exposición +/- 1 digito.\nPre–calentamiento del filamento del tubo de Rayos-X controlado por un sistema digital.\nControl del generador de rayos-X con interruptor estático tipo ZVS para una precisión absoluta del tiempo de exposición. El interruptor estático permite la apertura y cierre del circuito sin interferencias RF.\nSeñal acústica y luminosa durante la emisión de Rayos-X.\nPulsador de emisión del tipo Hombre Muerto, bloqueo automático en caso de liberar el pulsador de emisión en forma anticipada a la finalización del tiempo programado.\nCircuito miniaturizado.",
+        "image": "/imagenes/radiologia/AGS-Rx-rodante-imax70-500x500-1-300x300.png"
+    },
+    {   "id":15,
+        "title": "Equipo Rx Dental San Justo disparador",
+        "description": "Indicado para actualizar equipos que no posean disparador digital, adaptable a nacionales e importados.",
+        "image": "/imagenes/radiologia/DentalSanJusto-Rx-Disparador-300x300.jpg"
+    },
+    {   "id":16,
+        "title": "Equipo Rx Dental San Justo mural MCX",
+        "description": "Modelo mural con brazo pantógrafo común, indicado para consultorios donde el sillón se encuentre cercano a la pared.\nCabezal constituido por un tubo de 70KV 8mA alimentado por un transformador de alta tensión rodeado de aceite, cerrado al vacío y debidamente cubierto en plomo con el fin de evitar radiaciones no deseadas. Posee un pulmón que se dilata permitiendo realizar varias seriadas. Permite girarlo 360° sin dañar ningún cable.",
+        "image": "/imagenes/radiologia/DentalSanJusto-Rx-MCX-300x300.jpg"
+    },
+    {   "id":17,
+        "title": "Equipo Rx Dental San Justo mural MTX",
+        "description": "Modelo mural con brazo doble pantógrafo que permite máxima extensión operativa utilizando un mínimo espacio.\nCabezal constituido por un tubo de 70KV 8mA alimentado por un transformador de alta tensión rodeado de aceite, cerrado al vacío y debidamente cubierto en plomo con el fin de evitar radiaciones no deseadas. Posee un pulmón que se dilata permitiendo realizar varias seriadas. Permite girarlo 360° sin dañar ningún cable.",
+        "image": "/imagenes/radiologia/DentalSanJusto-Rx-MTX-300x300.jpg"
+    },
+    {   "id":18,
+        "title": "Equipo Rx Dental San Justo portátil",
+        "description": "Equipo radiológico de pequeñas dimensiones, con un peso aproximado de 9kg. Permite que sea muy fácil de trasladar.\nCabezal constituido por un tubo de 70KV 8mA alimentado por un transformador de alta tensión rodeado de aceite, cerrado al vacío y debidamente cubierto en plomo con el fin de evitar radiaciones no deseadas. Posee un pulmón que se dilata permitiendo realizar varias seriadas. Permite girarlo 360° sin dañar ningún cable.",
+        "image": "/imagenes/radiologia/DentalSanJusto-Rx-Portatil-300x300.jpg"
+    },
+    {   "id":19,
+        "title": "Equipo Rx Dental San Justo rodante EX",
+        "description": "Modelo rodante con cuatro puntos de apoyo, la forma de su pedestal permite que el equipo se pueda con facilidad.\nCabezal constituido por un tubo de 70KV 8mA alimentado por un transformador de alta tensión rodeado de aceite, cerrado al vacío y debidamente cubierto en plomo con el fin de evitar radiaciones no deseadas. Posee un pulmón que se dilata permitiendo realizar varias seriadas. Permite girarlo 360° sin dañar ningún cable.",
+        "image": "/imagenes/radiologia/DentalSanJusto-Rx-EX-300x300.jpg"
+    },
+    {   "id":20,
+        "title": "Gabinete de revelado Egeo Acero Inoxidable",
+        "description": "Altura 240 mm.\nLargo 380 mm.\nProfundidad 255 mm.\nPeso 3 kg.",
+        "image": "/imagenes/radiologia/gabinete-revelado-egeo-acero-inox-500x500-1-300x300.png"
+    },
+    {   "id":21,
+        "title": "Gabinete de revelado Egeo Termoformado",
+        "description": "Altura 220 mm.\nLargo 400 mm.\nProfundidad 300 mm.\nPeso 1.5 kg.",
+        "image": "/imagenes/radiologia/gabinete-revelado-egeo-termoformado-500x500-1-300x300.png"
+    },
+    {   "id":22,
+        "title": "Radiovisiografo New IDA",
+        "description": "Diagnóstico nítido, preciso y seguro.\nMedición de imagenes en múltiples puntos y la medición de ángulo, además de llevar a cabo la calibración.\nRotación, zoom, brillo, contraste, positivo/negativo, ajuste de color, en relieve, ajuste de histograma, selección y recorte.\nCaptura imágenes de alta definición en tiempo real.\nGuarda en los formatos DICOM, JPG, TIFF, BMP y PNG, imprime en DICOM y convencional.\nIntroduce caracteres en la foto, como textos, flechas, círculos o diseño libres.",
+        "image": "/imagenes/radiologia/radiovisiografo-dabi-atlante_500x500-300x300.jpg"
+    },
+    {   "id":23,
+        "title": "Radiovisiografo Acteon",
+        "description": "Imágenes de calidad, nítidas y contrastadas por la tecnología Sharp View.\nDiagnósticos fiables por las imágenes de gran precisión.\nTecnología ACE.",
+        "image": "/imagenes/radiologia/radiovisiografo-acteon-300x300.png"
+    },
+    {   "id":24,
+        "title": "Radiovisiografo Carestream",
+        "description": "Fácil de utilizar y asequible para los odontólogos que desean actualizar su consulta a un sistema digital.\nResolución real de 16 pl/mm.\nTres pasos sencillos: posicionamiento, exposición y visualización.\nAlto rango de exposición para ayudarle a capturar la imagen perfecta.",
+        "image": "/imagenes/radiologia/radiovisiografo-rvg-5200-carestream_500x500-300x300.jpg"
+    },
+    {   "id":25,
+        "title": "Radiovisiografo Trident",
+        "description": "Consumo eléctrico muy inferior.\nEconómico (necesita pocos componentes externos).\nLectura simultánea de mayor número de pixeles.\nEl conversor digital puede estar integrado en el mismo chip.\nEscaso Blooming (“Smear”) o inexistente.\nMayor flexibilidad en la lectura (Previsualización más rápida, vídeo).\nDistintos tipos de píxeles (según tamaño y sensibilidad) combinables.",
+        "image": "/imagenes/radiologia/Trident-Iview-1-500x500-1-300x300.png"
+    },
+    {   "id":26,
+        "title": "Delantal plomado adulto",
+        "description": "Delantal de goma plumbífera, con protector de tiroides.\nUso en paciente/odontologo adulto, para radiografía periapical.\n2 tamaños:\n– 85x60cm con 0,25mm y 0,50mm pb.\n– 100x60cm con 0,25mm y 0,50mm pb.\nColores: azul marino, azul odonto, verde y naranja.",
+        "image": "/imagenes/radiologia/delantal-plomado-Rx-500-300x300.jpg"
+    }
+    
+]

@@ -1,0 +1,46 @@
+[
+    {   
+        "id":1,
+        "title": "Compresor Silent Air 1 HP",
+        "description": "Potencia del motor: 750W (1HP).\nVelocidad del motor: 1380 rpm.\nDesplazamiento de aire: 135 L/min (4,8 C.F.M.) o Max.\nPresión: 7 Bar (100 Psi)\nTanque: 35 Lts. (7,9 Gal)\nPeso: 28 Kgrs.\nDimensiones: 44 x 44 x 66.",
+        "image": "/imagenes/Compresores/Compresor-Silent.Air-1-HP_500-300x300.png"
+    },
+    {   
+        "id":2,
+        "title": "Compresor Silent Air 2 HP",
+        "description": "Gran flujo, ruido de aire bajo y limpio.\nFuncionamiento en seco.\nRendimiento estable y de calidad confiable a través del tiempo.\nVerdadera conservación de energía y reducción de emisiones.\nControl automático completo (cuando la presión este en su mínimo o máximo, el compresor se apagara o encenderá automáticamente).",
+        "image": "/imagenes/Compresores/Compresor-Silent.Air-2-HP_500-300x300.png"
+    },
+    {   
+        "id":3,
+        "title": "Compresor Atec 1 HP",
+        "description": "Motor:  1HP (750KW) – Tanque: 38 lts. – Bajo nivel sonoro – Desplazamiento 152 Lts/Min.\nMotor libre de aceite (sin mantenimiento) – Fusible de Sobre Voltaje\nManómetro que regula la presión de salida/Equipo",
+        "image": "/imagenes/Compresores/compresor-atec1-300x300.jpg"
+    },
+    {   
+        "id":4,
+        "title": "Compresor Dürr Duo",
+        "description": "2 cilindros con secador.\nCompresor monofásico.\nCaudal de suministro 115/130 l/m.\nVolumen de depósito 20 l.\nNivel sonoro 66/69 dBA.\nNivel sonoro con mueble 55/61 dBA.",
+        "image": "/imagenes/Compresores/compresor-DURR-Duo-300x300.jpg"
+    },
+    {   "id":5,
+        "title": "Compresor Dürr Duo Tandem",
+        "description": "Ideal para el funcionamiento continuo de fresadoras, garantiza un suministro constante de aire comprimido limpio y seco en funcionamiento continuo.\nCuida la vida útil del cabezal de la fresadora.\nCompresor perfecto para todas las unidades CAD-CAM.",
+        "image": "/imagenes/Compresores/compresor-DURR-Duo-Tandem-300x300.jpg"
+    },
+    {   "id":6,
+        "title": "Compresor Dürr Tornado 1",
+        "description": "El Tornado es extremadamente silencioso, y puede tener un efecto calmante en el paciente y el profesional.\nTornado representaba la calidad a un precio atractivo.\nEl nuevo modelo redujo el consumo de energía en aprox. 15 %.\nBueno para sus costos de funcionamiento y respetuoso del medio ambiente.",
+        "image": "/imagenes/Compresores/compresor-tornado1-DURR.png"
+    },
+    {   "id":7,
+        "title": "Compresor Dürr Tornado 2",
+        "description": "Compresor silencioso y potente.\nSin aceite, seco, higiénico.\nEscasos costos de mantenimiento.\nMáxima fiabilidad gracias al cárter cerrado.\nAire comprimido higiénico, de sabor y olor neutros.\nMenor consumo, mayor eficiencia.",
+        "image": "/imagenes/Compresores/compresor-tornado2-DURR.png"
+    },
+    {   "id":8,
+        "title": "Compresor Nardi & Herrero 1 HP",
+        "description": "Silencioso y libre de aceite. 1 HP – 0.75 KW. Produce 152 L/min. Capacidad de tanque 38 litros. Tanque con tratamiento interno anticorrosivo.",
+        "image": "/imagenes/Compresores/compresor-nardi-herrero-1-hp-300x300.jpg"
+    }
+]
