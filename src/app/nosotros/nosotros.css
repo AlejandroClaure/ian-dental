@@ -1,0 +1,201 @@
+/* ==========================================================================
+   Nosotros Page (Mobile-first)
+   ========================================================================== */
+   .nosotros-hero {
+    position: relative;
+    height: 300px;
+    background-color: #34495e;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    overflow-x: hidden;
+    margin-top: 7.5rem; /* Ajustar para el header y nav fijos */
+  }
+  
+  .nosotros-hero h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    word-wrap: break-word;
+    max-width: 90%;
+  }
+  
+  .nosotros-hero p {
+    font-size: 1.2rem;
+    max-width: 90%;
+    word-wrap: break-word;
+  }
+  
+  .nosotros-about {
+    padding: 2rem 1rem;
+    text-align: center;
+    background-color: #f9f9f9;
+    width: 100%;
+    overflow-x: hidden;
+  }
+  
+  .nosotros-about h2 {
+    font-size: 2rem;
+    color: #2c3e50;
+    margin-bottom: 1rem;
+  }
+  
+  .nosotros-about p {
+    font-size: 1.1rem;
+    color: #34495e;
+    line-height: 1.6;
+    max-width: 800px;
+    margin: 0 auto 1rem;
+  }
+  
+  .nosotros-values {
+    padding: 2rem 1rem;
+    text-align: center;
+    width: 100%;
+    overflow-x: hidden;
+  }
+  
+  .nosotros-values h2 {
+    font-size: 2rem;
+    color: #2c3e50;
+    margin-bottom: 2rem;
+  }
+  
+  .values-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    max-width: 100%;
+    margin: 0 auto;
+  }
+  
+  .value-card {
+    background-color: #fff;
+    padding: 1.5rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .value-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+  }
+  
+  .value-card h3 {
+    font-size: 1.5rem;
+    color: #2c3e50;
+    margin-bottom: 0.5rem;
+  }
+  
+  .value-card p {
+    font-size: 1rem;
+    color: #34495e;
+    line-height: 1.5;
+  }
+  
+  .nosotros-cta {
+    padding: 2rem 1rem;
+    text-align: center;
+    background-color: #f5f6fa;
+    width: 100%;
+    overflow-x: hidden;
+  }
+  
+  .nosotros-cta h2 {
+    font-size: 2rem;
+    color: #2c3e50;
+    margin-bottom: 1rem;
+  }
+  
+  .nosotros-cta button {
+    background-color: #2ecc71;
+    color: white;
+    border: none;
+    padding: 0.75rem 2rem;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: background-color 0.3s ease;
+  }
+  
+  .nosotros-cta button:hover {
+    background-color: #27ae60;
+  }
+  
+  /* ==========================================================================
+     Media Queries para Desktop (min-width: 768px)
+     ========================================================================== */
+  @media screen and (min-width: 768px) {
+    .nosotros-hero {
+      height: 400px;
+      margin-top: 10rem; /* Ajustar para el header y nav fijos en escritorio */
+    }
+  
+    .nosotros-hero h1 {
+      font-size: 3rem;
+    }
+  
+    .nosotros-hero p {
+      font-size: 1.5rem;
+    }
+  
+    .nosotros-about {
+      padding: 3rem 2rem;
+    }
+  
+    .nosotros-about h2 {
+      font-size: 2.5rem;
+    }
+  
+    .nosotros-about p {
+      font-size: 1.2rem;
+    }
+  
+    .nosotros-values {
+      padding: 3rem 2rem;
+    }
+  
+    .nosotros-values h2 {
+      font-size: 2.5rem;
+    }
+  
+    .values-grid {
+      grid-template-columns: repeat(2, 1fr);
+      gap: 2rem;
+      max-width: 1200px;
+    }
+  
+    .value-card h3 {
+      font-size: 1.8rem;
+    }
+  
+    .value-card p {
+      font-size: 1.1rem;
+    }
+  
+    .nosotros-cta {
+      padding: 3rem 2rem;
+    }
+  
+    .nosotros-cta h2 {
+      font-size: 2.5rem;
+    }
+  
+    .nosotros-cta button {
+      padding: 1rem 3rem;
+      font-size: 1.1rem;
+    }
+  }
+  
+  /* Ajuste intermedio para tablets (min-width: 500px) */
+  @media screen and (min-width: 500px) and (max-width: 767px) {
+    .values-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }

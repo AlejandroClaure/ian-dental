@@ -5,6 +5,7 @@ import Link from 'next/link';
 import '../globals.css';
 import { CartProvider } from './context/CartContext';
 import CartSidebar from './components/CartSidebar';
+import Image from 'next/image';
 
 export default function RootLayout({ children }) {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -239,7 +240,7 @@ export default function RootLayout({ children }) {
                   rel="noopener noreferrer"
                 >
                   <span className="footer-icon">
-                    <img
+                    <Image
                       src="/icons/google-maps-icon.png"
                       alt="Google Maps"
                       width={20}
@@ -257,7 +258,7 @@ export default function RootLayout({ children }) {
               <div className="footer-item">
                 <a href="mailto:roman.boghossian@gmail.com">
                   <span className="footer-icon">
-                    <img
+                    <Image
                       src="/icons/email-icon.png"
                       alt="Email"
                       width={20}
@@ -270,7 +271,7 @@ export default function RootLayout({ children }) {
               <div className="footer-item">
                 <a href="tel:+549295522990">
                   <span className="footer-icon">
-                    <img
+                    <Image
                       src="/icons/phone-icon.png"
                       alt="Teléfono"
                       width={20}
@@ -287,7 +288,7 @@ export default function RootLayout({ children }) {
                   rel="noopener noreferrer"
                 >
                   <span className="footer-icon">
-                    <img
+                    <Image
                       src="/icons/instagram-icon.png"
                       alt="Instagram"
                       width={20}
