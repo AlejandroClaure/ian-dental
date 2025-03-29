@@ -25,7 +25,7 @@ const categories = {
   cavitadores: cavitadoresData,
   contraangulos: contraangulosData,
   turbinas: turbinasData,
-  duchabucal: duchabucalData,
+  ducha_bucal: duchabucalData,
   estufas: estufasData,
   autoclaves: autoclavesData,
   impresoras_y_fresadoras: impresorasfresadorasData,

@@ -136,7 +136,7 @@ export default function RootLayout({ children }) {
                     </ul>
                   </li>
                   <li>
-                    <Link href="/duchabucal" onClick={closeMenu}>
+                    <Link href="/ducha_bucal" onClick={closeMenu}>
                       Ducha Bucal
                     </Link>
                   </li>
@@ -166,7 +166,7 @@ export default function RootLayout({ children }) {
                     </Link>
                   </li>
                   <li>
-                    <Link href="/sistemadeaspiracion" onClick={closeMenu}>
+                    <Link href="/sistema_de_aspiracion" onClick={closeMenu}>
                       Sistema de Aspiración
                     </Link>
                   </li>
@@ -181,12 +181,12 @@ export default function RootLayout({ children }) {
                     </Link>
                   </li>
                   <li>
-                    <Link href="/impresorasfresadoras" onClick={closeMenu}>
+                    <Link href="/impresorasf_y_resadoras" onClick={closeMenu}>
                       Impresoras y Fresadoras
                     </Link>
                   </li>
                   <li>
-                    <Link href="/insertosdeultrasonido" onClick={closeMenu}>
+                    <Link href="/insertos_de_ultrasonido" onClick={closeMenu}>
                       Insertos de Ultrasonido
                     </Link>
                   </li>
@@ -196,7 +196,7 @@ export default function RootLayout({ children }) {
                     </Link>
                   </li>
                   <li>
-                    <Link href="/motoresdeimplanteycirugia" onClick={closeMenu}>
+                    <Link href="/motores_de_implante_y_cirugia" onClick={closeMenu}>
                       Motores de Implante y Cirugía
                     </Link>
                   </li>
