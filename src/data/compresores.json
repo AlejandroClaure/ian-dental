@@ -3,13 +3,13 @@
         "id":1,
         "title": "Compresor Silent Air 1 HP",
         "description": "Potencia del motor: 750W (1HP).\nVelocidad del motor: 1380 rpm.\nDesplazamiento de aire: 135 L/min (4,8 C.F.M.) o Max.\nPresión: 7 Bar (100 Psi)\nTanque: 35 Lts. (7,9 Gal)\nPeso: 28 Kgrs.\nDimensiones: 44 x 44 x 66.",
-        "image": "/imagenes/compresores/compresor-Silent.Air-1-HP_500-300x300.png"
+        "image": "/imagenes/compresores/compresor-SilentAir-1-HP_500-300x300.png"
     },
     {   
         "id":2,
         "title": "Compresor Silent Air 2 HP",
         "description": "Gran flujo, ruido de aire bajo y limpio.\nFuncionamiento en seco.\nRendimiento estable y de calidad confiable a través del tiempo.\nVerdadera conservación de energía y reducción de emisiones.\nControl automático completo (cuando la presión este en su mínimo o máximo, el compresor se apagara o encenderá automáticamente).",
-        "image": "/imagenes/compresores/compresor-Silent.Air-2-HP_500-300x300.png"
+        "image": "/imagenes/compresores/compresor-SilentAir-2-HP_500-300x300.png"
     },
     {   
         "id":3,
