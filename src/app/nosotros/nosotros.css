@@ -3,7 +3,6 @@
    ========================================================================== */
    .nosotros-hero {
     position: relative;
-    height: 200px;
     background-color: #34495e;
     background-size: cover;
     background-position: center;
@@ -15,7 +14,7 @@
     text-align: center;
     width: 100%;
     overflow-x: hidden;
-    margin-top: 7.5rem; /* Ajustar para el header y nav fijos */
+    margin-top: 0.5rem;
   }
   
   .nosotros-hero h1 {
@@ -133,8 +132,7 @@
      ========================================================================== */
   @media screen and (min-width: 768px) {
     .nosotros-hero {
-      height: 400px;
-      margin-top: 10rem; /* Ajustar para el header y nav fijos en escritorio */
+      height: 200px;
     }
   
     .nosotros-hero h1 {
