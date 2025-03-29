@@ -181,7 +181,7 @@ export default function RootLayout({ children }) {
                     </Link>
                   </li>
                   <li>
-                    <Link href="/impresorasf_y_resadoras" onClick={closeMenu}>
+                    <Link href="/impresoras_y_fresadoras" onClick={closeMenu}>
                       Impresoras y Fresadoras
                     </Link>
                   </li>
