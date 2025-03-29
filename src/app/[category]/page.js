@@ -14,10 +14,17 @@ export default function Category({ params: paramsPromise }) {
   if (products.length === 0) {
     return <div>Categoría no encontrada</div>;
   }
-
+// Función para formatear el nombre de la categoría
+const formatCategoryName = (category) => {
+  return category
+    .replace(/_/g, ' ') // Reemplaza todos los "_" por espacios
+    .split(' ') // Divide en palabras
+    .map(word => word.charAt(0).toUpperCase() + word.slice(1)) // Capitaliza cada palabra
+    .join(' '); // Une las palabras con espacios
+};
   return (
     <div className="category-page">
-      <h1>{params.category.charAt(0).toUpperCase() + params.category.slice(1)}</h1>
+      <h1>{formatCategoryName(product.category)}</h1>
       <div className="product-grid">
         {products.map((product) => (
           <div key={product.id} className="product-card">
