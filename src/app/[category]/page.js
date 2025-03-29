@@ -24,7 +24,7 @@ const formatCategoryName = (category) => {
 };
   return (
     <div className="category-page">
-      <h1>{formatCategoryName(product.category)}</h1>
+      <h1>{formatCategoryName(params.category)}</h1>
       <div className="product-grid">
         {products.map((product) => (
           <div key={product.id} className="product-card">
