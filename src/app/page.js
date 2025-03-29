@@ -107,15 +107,15 @@ export default function Home() {
         </h2>
         <div style={{ display: 'flex', justifyContent: 'center', gap: '2rem', flexWrap: 'wrap' }}>
           <div className="testimonial-card">
-            <p>'' Excelente calidad en los sillones y un servicio técnico impecable. ''</p>
+            <p>&apos; Excelente calidad en los sillones y un servicio técnico impecable. &apos;</p>
             <p style={{ fontStyle: 'italic', marginTop: '0.5rem' }}>- Dr. Juan Pérez</p>
           </div>
           <div className="testimonial-card">
-            <p>'' Los equipos de esterilización son confiables y fáciles de usar. ''</p>
+            <p>&apos; Los equipos de esterilización son confiables y fáciles de usar. &apos;</p>
             <p style={{ fontStyle: 'italic', marginTop: '0.5rem' }}>- Dra. María Gómez</p>
           </div>
           <div className="testimonial-card">
-            <p>'' Gran variedad de productos y entrega rápida, recomendado! ''</p>
+            <p>&apos; Gran variedad de productos y entrega rápida, recomendado! &apos;</p>
             <p style={{ fontStyle: 'italic', marginTop: '0.5rem' }}>- Dr. Carlos López</p>
           </div>
         </div>
