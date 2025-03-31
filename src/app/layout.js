@@ -235,7 +235,7 @@ export default function RootLayout({ children }) {
             <div className="footer-content">
               <div className="footer-item">
                 <a
-                  href="https://www.google.com.ar/maps/place//@-38.9442078,-68.0410555,14z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDMyNC4wIKXMDSoASAFQAw%3D%3D"
+                  href="https://www.google.com/maps/place/Ian+Dental+-+Equipamientos+Odontol%C3%B3gicos/@-38.9382692,-67.993167,17z/data=!4m15!1m8!3m7!1s0x960a30fb77d4c6f9:0xb8746c77f8709b28!2sSarmiento+336,+R8324+Cipolletti,+R%C3%ADo+Negro!3b1!8m2!3d-38.9382692!4d-67.993167!16s%2Fg%2F11q2nj_qy1!3m5!1s0x960a31e8162b670d:0xd8168366d6eb06ce!8m2!3d-38.9382692!4d-67.993167!16s%2Fg%2F11j8lyzwrr?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoJLDEwMjExNDU1SAFQAw%3D%3D"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -248,7 +248,7 @@ export default function RootLayout({ children }) {
                     />
                   </span>
                   <span>
-                    Villegas 120, Local 9 (Galería Hipocampus)
+                    Sarmiento 336
                   </span>
                   <span>
                     Cipolletti, Río Negro, Argentina.
