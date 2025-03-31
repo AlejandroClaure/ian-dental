@@ -33,6 +33,11 @@ export default function Servicios() {
       {/* Sección Llamado a la Acción */}
       <div className="call-to-action">
         <h2>¿Necesitas soporte técnico?</h2>
+                        <a href="tel:+5492996228018">
+                          <span>Servicio Técnico:</span>
+                          <span>2995522990</span>
+                        </a>
+                        <h2>O</h2>
         <Link href="/contacto">
           <button>Contáctanos</button>
         </Link>

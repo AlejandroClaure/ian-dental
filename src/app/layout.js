@@ -278,6 +278,21 @@ export default function RootLayout({ children }) {
                       height={20}
                     />
                   </span>
+                  <span>Info. Ventas:</span>
+                  <span>2995522990</span>
+                </a>
+              </div>
+              <div className="footer-item">
+                <a href="tel:+5492996228018">
+                  <span className="footer-icon">
+                    <Image
+                      src="/icons/phone-icon.png"
+                      alt="Teléfono"
+                      width={20}
+                      height={20}
+                    />
+                  </span>
+                  <span>Servicio Técnico:</span>
                   <span>2995522990</span>
                 </a>
               </div>
