@@ -293,7 +293,7 @@ export default function RootLayout({ children }) {
                     />
                   </span>
                   <span>Servicio Técnico:</span>
-                  <span>2995522990</span>
+                  <span>2996228018</span>
                 </a>
               </div>
               <div className="footer-item">
