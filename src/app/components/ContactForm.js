@@ -26,7 +26,7 @@ export default function ContactForm() {
     }));
   };
   //funcion para agregar el mail al final del mensaje
-  const fullMessage = `${formData.email}\n${formData.inquiry}\n${cartItems}\n\nAgradezco de antemano su respuesta.\nSaludos cordiales,\n${formData.name}`;
+  const fullMessage = `${formData.message}\n${formData.email}`;
 
   
   const handleSubmit = async (e) => {
@@ -48,6 +48,8 @@ export default function ContactForm() {
         'service_iandental', // Service_ID proporcionado
         'template_11q7y4n', // Template_ID proporcionado
         {
+          name: formData.name,
+          email: formData.email,
           message: fullMessage,
         }
       );
