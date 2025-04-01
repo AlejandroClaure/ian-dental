@@ -45,7 +45,7 @@ export default function Carrito() {
       .join('\n');
     
     // Combine inquiry with cart items
-    const fullMessage = `${formData.inquiry}\n${cartItems}\n\nAgradezco de antemano su respuesta.\nSaludos cordiales,\n[Su Nombre]`;
+    const fullMessage = `${formData.inquiry}\n${cartItems}\n\nAgradezco de antemano su respuesta.\nSaludos cordiales,\n${formData.email}`;
 
     // Email.js parameters
     const emailParams = {
