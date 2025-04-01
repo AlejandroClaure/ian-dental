@@ -15,7 +15,7 @@ export default function ContactForm() {
 
   // Inicializar EmailJS con el Public Key (User_ID)
   useEffect(() => {
-    emailjs.init('5OwZGtWipm4fjaK90'); // Public Key proporcionado
+    emailjs.init('gfIrkrTZ7cRQviENk'); // Public Key proporcionado
   }, []);
 
   const handleChange = (e) => {
@@ -41,8 +41,8 @@ export default function ContactForm() {
     // Enviar el correo usando EmailJS
     try {
       await emailjs.send(
-        'service_91et1go', // Service_ID proporcionado
-        'template_a1aa9l8', // Template_ID proporcionado
+        'service_iandental', // Service_ID proporcionado
+        'template_11q7y4n', // Template_ID proporcionado
         {
           name: formData.name,
           email: formData.email,
