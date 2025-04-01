@@ -813,8 +813,8 @@ nav {
     .footer-content {
       display: flex;
       flex-direction: column; /* En columna en móvil */
-      gap: 1rem; /* Espacio entre elementos */
-      margin-bottom: 1rem;
+      flex-wrap: wrap;/* Espacio entre elementos */
+      margin-bottom: 2rem;
     }
     
     .footer-item {
@@ -1120,7 +1120,7 @@ nav {
   .footer-content {
     flex-direction: row; /* En fila en escritorio */
     justify-content: center;
-    gap: 5rem; /* Más espacio entre elementos */
+    gap: 3rem; /* Más espacio entre elementos */
   }
 
   .footer-item {
