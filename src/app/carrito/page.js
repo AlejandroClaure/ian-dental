@@ -10,6 +10,7 @@ export default function Carrito() {
   // State for form visibility and form data
   const [showForm, setShowForm] = useState(false);
   const [formData, setFormData] = useState({
+    name: '', // Added name field
     email: '',
     inquiry: 'Estimado equipo de Ian Dental,\n\nMe pongo en contacto para consultar sobre los precios de los siguientes productos en mi carrito. A continuación, detallo los ítems:\n\n',
   });
@@ -30,6 +31,7 @@ export default function Carrito() {
       alert('El carrito está vacío.');
       return;
     }
+
     if (!formData.name) {
       alert('Por favor, ingrese su nombre.');
       return;
@@ -48,18 +50,19 @@ export default function Carrito() {
       .map((item) => `${item.title} - ${item.description} (Cantidad: ${item.quantity})`)
       .join('\n');
     
-    // Combine inquiry with cart items
-    const fullMessage = `${formData.name},\n${formData.inquiry}\n${cartItems}\n\nAgradezco de antemano su respuesta.\nSaludos cordiales,\n${formData.email}`;
+    // Combine inquiry with cart items and include the user's name in the signature
+    const fullMessage = `${formData.email}\n${formData.inquiry}\n${cartItems}\n\nAgradezco de antemano su respuesta.\nSaludos cordiales,\n${formData.name}`;
 
     // Email.js parameters
     const emailParams = {
+      from_name: formData.name, // Added name to email params
       from_email: formData.email,
       to_email: 'contacto@iandental.com',
       subject: 'Consulta de Precios - Ian Dental',
       message: fullMessage,
     };
 
-    // Replace with your Email.js service ID, template ID, and public key
+    // Reemplazar con el servicio de id, template id y public key
     emailjs
       .send('service_iandental', 'template_11q7y4n', emailParams, 'gfIrkrTZ7cRQviENk')
       .then(
@@ -67,7 +70,7 @@ export default function Carrito() {
           setSubmitMessage('¡Correo enviado exitosamente! Nos pondremos en contacto pronto.');
           setShowForm(false);
           setFormData({
-            name:'',
+            name: '',
             email: '',
             inquiry: 'Estimado equipo de Ian Dental,\n\nMe pongo en contacto para consultar sobre los precios de los siguientes productos en mi carrito. A continuación, detallo los ítems:\n\n',
           });
@@ -291,7 +294,7 @@ export default function Carrito() {
                 onMouseEnter={(e) => (e.target.style.backgroundColor = '#6c757d')}
                 onMouseLeave={(e) => (e.target.style.backgroundColor = '#7f8c8d')}
               >
-                Volver a inicio
+                Volver a productos
               </button>
             </Link>
           </div>
@@ -342,6 +345,30 @@ export default function Carrito() {
                   Consulta de Precios
                 </h3>
                 <form onSubmit={sendCartByEmail}>
+                  {/* Added Name Field */}
+                  <div style={{ marginBottom: '20px' }}>
+                    <label
+                      htmlFor="name"
+                      style={{ display: 'block', fontSize: '1rem', color: '#2c3e50', marginBottom: '5px' }}
+                    >
+                      Nombre (obligatorio)
+                    </label>
+                    <input
+                      type="text"
+                      id="name"
+                      name="name"
+                      value={formData.name}
+                      onChange={handleInputChange}
+                      required
+                      style={{
+                        width: '100%',
+                        padding: '10px',
+                        borderRadius: '5px',
+                        border: '1px solid #ddd',
+                        fontSize: '1rem',
+                      }}
+                    />
+                  </div>
                   <div style={{ marginBottom: '20px' }}>
                     <label
                       htmlFor="email"
