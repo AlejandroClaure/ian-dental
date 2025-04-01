@@ -30,6 +30,10 @@ export default function Carrito() {
       alert('El carrito está vacío.');
       return;
     }
+    if (!formData.name) {
+      alert('Por favor, ingrese su nombre.');
+      return;
+    }
 
     if (!formData.email) {
       alert('Por favor, ingrese su correo electrónico.');
@@ -45,7 +49,7 @@ export default function Carrito() {
       .join('\n');
     
     // Combine inquiry with cart items
-    const fullMessage = `${formData.inquiry}\n${cartItems}\n\nAgradezco de antemano su respuesta.\nSaludos cordiales,\n${formData.email}`;
+    const fullMessage = `${formData.name},\n${formData.inquiry}\n${cartItems}\n\nAgradezco de antemano su respuesta.\nSaludos cordiales,\n${formData.email}`;
 
     // Email.js parameters
     const emailParams = {
@@ -63,6 +67,7 @@ export default function Carrito() {
           setSubmitMessage('¡Correo enviado exitosamente! Nos pondremos en contacto pronto.');
           setShowForm(false);
           setFormData({
+            name:'',
             email: '',
             inquiry: 'Estimado equipo de Ian Dental,\n\nMe pongo en contacto para consultar sobre los precios de los siguientes productos en mi carrito. A continuación, detallo los ítems:\n\n',
           });

@@ -25,7 +25,10 @@ export default function ContactForm() {
       [name]: value,
     }));
   };
+  //funcion para agregar el mail al final del mensaje
+  const fullMessage = `${formData.message}\n${formData.email}`;
 
+  
   const handleSubmit = async (e) => {
     e.preventDefault();
     setIsSubmitting(true);
@@ -38,6 +41,7 @@ export default function ContactForm() {
       return;
     }
 
+
     // Enviar el correo usando EmailJS
     try {
       await emailjs.send(
@@ -46,9 +50,10 @@ export default function ContactForm() {
         {
           name: formData.name,
           email: formData.email,
-          message: formData.message,
+          message: fullMessage,
         }
       );
+    
 
       setStatus('success');
       setFormData({ name: '', email: '', message: '' });
